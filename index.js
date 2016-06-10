@@ -1,4 +1,4 @@
-var map = L.map('map').setView([51, 3.5], 10);
+var map = L.map('map').setView([51, 3.5], 5);
 
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
@@ -10,5 +10,5 @@ var myStyle = {
     "opacity": 0.65
 };
 
-var geojsonLayer = new L.GeoJSON.AJAX('myTrace.geojson', {onEachFeature: popUp}, {style: myStyle});
+var geojsonLayer = new L.GeoJSON.AJAX('myTrace.geojson', {style: myStyle});
 geojsonLayer.addTo(map);
