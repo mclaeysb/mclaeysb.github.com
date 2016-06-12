@@ -1,5 +1,3 @@
-var buffer = require('turf-buffer')
-
 var map = L.map('map').setView([51, 3.5], 5);
 
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
