@@ -1,4 +1,6 @@
-var map = L.map('map').setView([51, 3.5], 5);
+var buffer = require('../turf-buffer')
+
+var map = L.map('map');
 
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
