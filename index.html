@@ -15,7 +15,7 @@
 <body>
 <div id="map"></div>
 <script>
-var map = L.map('map').setView([50, 0], 6);
+var map = L.map('map').setView([51, 11], 4);
 
 L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
@@ -23,7 +23,8 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 
 var myBuffer = new L.GeoJSON.AJAX('myBuffer.geojson');
 myBuffer.addTo(map);
-map.fitBounds(L.featureGroup([myBuffer]).getBounds());
+// map.fitBounds(L.featureGroup([myBuffer]).getBounds());
+// Error, see: https://github.com/Leaflet/Leaflet/issues/3280
 
 </script>
 </body>
