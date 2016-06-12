@@ -23,7 +23,7 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 
 var myBuffer = new L.GeoJSON.AJAX('myBuffer.geojson');
 myBuffer.addTo(map);
-map.fitBounds(L.featureGroup(myBuffer).getBounds());
+map.fitBounds(L.featureGroup([myBuffer]).getBounds());
 
 </script>
 </body>
