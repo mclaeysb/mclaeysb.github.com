@@ -1,29 +1,33 @@
-body { margin: 60px auto; width: 70%; }
+body { 
+	margin: 60px auto; 
+	padding: 20px;
+	width: 640px; 
+	font-family: -apple-system,BlinkMacSystemFont,'avenir next',avenir,helvetica,'helvetica neue',ubuntu,roboto,noto,'segoe ui',arial,sans-serif; 
+	font-size: 1rem; 
+	line-height: 1.6em; 
+	color: #333; 
+	text-rendering: optimizeLegibility;
+}
 
-a { text-decoration: none; color: #999; }
-a:hover { text-decoration: underline; }
+a { color: #333; }
+a:visited { color: #666;}
 
-p, ul { font-size: 1.5em; line-height: 1.4em; color: #333; }
+h1, h2, h3, h4 { 
+	margin-bottom: .5rem;
+	line-height: 1.25;
+	font-weight: 600;
+}
+h1 {font-size: 1.2em;}
+h2 {font-size: 1.1em;}
 
-h1, h2, h3, h4 { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-h1 { font-size: 3em;  }
-h2 { font-size: 2.7em; }
-h3 { font-size: 2.3em; }
-h4 { font-size: 1.9em; }
-
-nav ul, footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
-nav ul li, footer ul li { display: inline; margin-right: 20px; }
-
-footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
-
-/* Blog */
-ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
-ul.posts li { list-style: none; }
-
-/* CV */
-.cv { margin: 0px 0px 60px; }
-.cv h1 { font-size: 3em; }
-.cv h2 { font-size: 2em; }
-.cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
-.cv address, .cv p { font-size: 1.2em; }
-.cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+nav {
+	color: #888;
+	border-bottom: 1px solid #000;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+nav a { text-decoration: none; color: #888;}
+nav a:visited {color: #888;}
+nav a.active {color: #333;}
+nav ul { font-size: 1em; padding: 0px; list-style: none; }
+nav ul li { margin-right: 20px; } /* display: inline; */

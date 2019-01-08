@@ -7,28 +7,27 @@
   
   </head>
 
-
   <body>
     <nav>
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/about">About</a></li>
-<li><a href="/cv">CV</a></li>
-<li><a href="/blog">Blog</a></li>
-</ul>
+      <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
+      - 
+      <a href="/about.html" {% if page.url == "/about" %}class="active"{% endif %}>About</a>
+      <br>
+      <a href="/mapping.html" {% if page.url == "/mapping" %}class="active"{% endif %}>Mapping</a>
+      - 
+      <a href="/urban.html" {% if page.url == "/urban" %}class="active"{% endif %}>Urban Planning</a>
+      - 
+      <a href="/science.html" {% if page.url == "/science" %}class="active"{% endif %}>Science</a>
+      - 
+      <a href="/collective.html" {% if page.url == "/collective" %}class="active"{% endif %}>Collective</a>
+      <br>
     </nav>
-<div class="container">
 
-  {{ content }}
-
-</div>
+    <div>
+      <!-- You are here: {{ page.url }} -->
+      {{ content }}
+    </div>
   
-  <footer>
-   <ul>
-   <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-   <li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-   </ul>
-  </footer>
   </body>
 
 </html>
