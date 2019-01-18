@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="project-box">
+
+{% assign sorted = (site.projects | sort: 'date') | reverse %}
+{% for project in sorted %}
+{% if project.categories contains page.category %}
+
+<a href="{{ project.url }}" class="project">
+
+	<img class="square" src="/img/{{ project.image }}">
+	
+	<strong>{{ project.title }}</strong>
+	
+	<span>{{ project.tagline | markdownify }}</span>
+
+</a>
+		
+{% endif %}
+{% endfor %}
+
+</div>

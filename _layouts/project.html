@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<a href="{{ page.link }}">
+<img src="/img/{{ page.image }}" class="main">
+</a>
+
+<h1>{{ page.title }}</h1> 
+
+{% if page.tagline %} <blockquote> {{page.tagline}}  </blockquote> {% endif %}
+
+{% if page.link %} ➤ <a href="{{ page.link }}">Visit it!</a> {% endif %}
+
+{{content}}
+
+— @ {{ page.organisation }}, {% if page.date_start %} {{page.date_start | date: "%Y" }} to {% endif %} {{page.date | date: "%Y" }} 
+
+<!-- Add picture list -->

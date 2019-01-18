@@ -1,3 +1,6 @@
 name: Manuel - Some type of Portfolio
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+collections: 
+  projects:
+    output: true # Check?
+    layout: project

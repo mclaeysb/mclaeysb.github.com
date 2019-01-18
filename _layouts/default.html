@@ -11,19 +11,19 @@
     <nav>
       <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
       - 
-      <a href="/about.html" {% if page.url == "/about" %}class="active"{% endif %}>About</a>
+      <a href="/about.html" {% if page.url == "/about.html" %}class="active"{% endif %}>About</a>
       <br>
-      <a href="/mapping.html" {% if page.url == "/mapping" %}class="active"{% endif %}>Mapping</a>
+      <a href="/mapping.html" {% if page.url == "/mapping.html" %}class="active"{% endif %}>Mapping</a>
       - 
-      <a href="/urban.html" {% if page.url == "/urban" %}class="active"{% endif %}>Urban Planning</a>
+      <a href="/urban.html" {% if page.url == "/urban.html" %}class="active"{% endif %}>Urban Planning</a>
       - 
-      <a href="/science.html" {% if page.url == "/science" %}class="active"{% endif %}>Science</a>
+      <a href="/science.html" {% if page.url == "/science.html" %}class="active"{% endif %}>Science</a>
       - 
-      <a href="/collective.html" {% if page.url == "/collective" %}class="active"{% endif %}>Collective</a>
+      <a href="/collective.html" {% if page.url == "/collective.html" %}class="active"{% endif %}>Collective</a>
       <br>
     </nav>
 
-    <div>
+    <div class="content">
       <!-- You are here: {{ page.url }} -->
       {{ content }}
     </div>
