@@ -3,7 +3,7 @@ layout: project
 categories: [mapping, science]
 date: 2015-01-01
 title: Analysing distortion in old maps
-tagline: Using a technique from map projection analysis to study distortion in historical maps
+tagline: A technique from map projection analysis I used to study distortion in historical maps
 organisation: UGent Department of Geography
 image: academia_ferraris.jpg
 link: https://github.com/mclaeysb/distortionAnalysis
@@ -14,4 +14,4 @@ At the Department of Geography, we were presented with the specific case of the 
 
 We were then able to put the resulting distortion patterns in their historic context by correlating them with the historic documents explaining the course of the 18th century mapping campaign.
 
-The code of this technique and scientific paper explaining its foundations are freely available online.
+The code of this technique and scientific paper explaining its foundations are freely available online. The main code is written in Matlab/Octave and was processed using GDAL and QGIS.

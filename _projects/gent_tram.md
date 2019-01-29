@@ -2,7 +2,7 @@
 layout: project
 categories: mapping
 date: 2013-11-01
-title: Ghent Tram Map 
+title: Ghent tram map 
 tagline: Map fiction of my hometown's future tram network
 organisation: Home
 image: gent_tram.png

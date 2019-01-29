@@ -3,8 +3,8 @@ layout: project
 categories: urban
 date_start: 1995-01-01
 date: 2000-01-01
-title: Head Lego City developper
-tagline: Large scale development for a diverse urban environment using recyclable materials.
+title: Lego City
+tagline: Development experience in a diverse urban environment using recyclable materials.
 organisation: Home
 image: lego.jpeg
 ---
