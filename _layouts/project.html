@@ -1,14 +1,18 @@
 ---
 layout: default
 ---
-
 <a href="{{ page.link }}">
-<img src="/img/{{ page.image }}" class="main">
+	{% assign file_path_img = 'img/' | append: page.slug | append: '.' %}
+	{% for file in site.static_files %}
+		{% if file.path contains file_path_img %}
+	        <img src="{{ file.path }}" class="main">
+	    {% endif %}
+	{% endfor %}
 </a>
 
 <h1>{{ page.title }}</h1> 
 
-{% if page.tagline %} <blockquote> {{page.tagline}}  </blockquote> {% endif %}
+{% if page.tagline %} <blockquote> {{ page.tagline }}  </blockquote> {% endif %}
 
 {% if page.link %} ➤ <a href="{{ page.link }}">Visit it!</a> {% endif %}
 
@@ -16,4 +20,13 @@ layout: default
 
 — @ {{ page.organisation }}, {% if page.date_start %} {{page.date_start | date: "%Y" }} to {% endif %} {{page.date | date: "%Y" }} 
 
-<!-- Add picture list -->
+<div class="image-box">
+
+{% assign file_path_img_ = 'img/' | append: page.slug | append: '_' %}
+{% for file in site.static_files %}
+	{% if file.path contains file_path_img_ %}
+        <img src="{{ file.path }}"/>    
+    {% endif %}
+{% endfor %}
+
+</div>

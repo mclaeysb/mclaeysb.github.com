@@ -5,13 +5,30 @@ title: About me
 
 > Whose site is this anyway?
 
-Hi, I'm Manuel.
+Hi, I'm Manuel. I made this page as some kind of _portfolio_.
 
-I made this page as some kind of _portfolio_.
+# About me
+
+>> I'm really into maps, I can geek ..., engineering and geometry. I also like teaching and learning with/in groups. I studied 'engineering physics'. Also social
+
+Wait, let me just give you a list of things I'm interested in:
+
+- **Maps**: cartography, map projections, historical cartography, transit maps, algorithms for geospatial operations, GIS, OpenStreetMap and HOT, mobility and urban planning, remote sensing and hyperspectral image processing.
+- **Urban planning**: circulation plans, cycling and the city, bike kitchens, cooperative housing models, shared space and commons.
+- **Science, maths and engineering**: (computational) geometry, algebra, mathematical modeling, data science, information architecture, Fourier analysis, image processing, optics and photonics, fluorescence, lasers, x-ray physics, solid state physics and repairability.
+- **Collective learning**: creative processes, learning trajectories, teaching, co-mentoring, collective intelligence & sociocraty, alternative ownership and management models, facilitation and mediation, open source / data / knowledge, commons.
+
+# A good place for work
+
+Whether in a professional, volunteer or artistic context, good workplaces foster good work and happy workers.
+
+I find I do my best work when there's time to dive into a subject and study it well, when there's an incentive to be thorough, careful, neat and durable, when creativity and beauty are appreciated, when we're creating something that _works_ and is of use on a larger scale, when I'm surrounded by kind and capable people and when I can learn together with them in an open atmosphere.
+
+I think it's important we think about our work conditions and find out which ones work for us. I myself try to optimise my habits and systems, and like to design learning trajectories for myself and others.
 
 # Contact
 
-If you want to reach me, you can send an email to [manuel.claeys.b@gmail.com](mailto:manuel.claeys.b@gmail.com).
+If you want to reach me, you can send an email to [manuel.claeys.b@gmail.com](mailto:manuel.claeys.b@gmail.com). Maybe we can learn from one another. It would be my pleasure.
 
 # More
 

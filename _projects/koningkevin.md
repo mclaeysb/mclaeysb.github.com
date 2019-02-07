@@ -6,7 +6,6 @@ date: 2018-01-01
 title: Koning Kevin
 tagline: Workshops in art-educational youth work
 organisation: Koning Kevin
-image: koningkevin.jpg
 link: https://koningkevin.be
 ---
-I was a youth work instructor at Koning Kevin - an organsation hosting summer camps and youth worker workshops with a focus on creativity and self-expression. Together with some very tallented, open-minded and hilarious fellow instructors, I accompanied groups of young adults through different aspects of working with children and youngsters: approaching communication as a youth worker, brainstoming and planning in group, playing all out in fantasy worlds, learning social skills through creative processes, designing games, creating captivating settings, ...
+I was a youth work instructor at Koning Kevin - an organisation hosting summer camps and youth worker workshops with a focus on creativity and self-expression. Together with some very talented, open-minded and hilarious fellow instructors, I accompanied groups of young adults through different aspects of working with children and youngsters: approaching communication as a youth worker, brainstorming and planning in group, playing all out in fantasy worlds, learning social skills through creative processes, designing games, creating captivating settings, ...

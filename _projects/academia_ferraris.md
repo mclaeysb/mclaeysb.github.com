@@ -1,11 +1,10 @@
 ---
 layout: project
-categories: [mapping, science]
+categories: [maps, science]
 date: 2015-01-01
 title: Analysing distortion in old maps
 tagline: A technique from map projection analysis I developed to study distortion in historical maps
 organisation: UGent Department of Geography
-image: academia_ferraris.jpg
 link: https://github.com/mclaeysb/distortionAnalysis
 ---
 Old, historical maps can be inaccurate for many reasons (primitive techniques, surveying errors, mixed inputs, conservation, etc). A distortion represents a loss in geographic information, but, by its specific origin, can also yield new historical information.

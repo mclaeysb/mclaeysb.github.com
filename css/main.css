@@ -9,15 +9,6 @@ body {
 	text-rendering: optimizeLegibility;
 }
 
-img {
-    width: 100%;
-}
-
-img.main {
-    height: 150px;
-    object-fit: cover;
-}
-
 a { color: #333; }
 a:visited { color: #666;}
 
@@ -37,6 +28,20 @@ blockquote {
 	padding: 0 1em;
 	margin: 10px 0px;
 } 
+
+img {
+    width: 100%;
+}
+
+img.main {
+    height: 150px;
+    object-fit: cover;
+}
+
+.image-box img {
+	height: 300px;
+	object-fit: cover;
+}
 
 .project-box {
     display: grid;
@@ -58,6 +63,13 @@ blockquote {
     height: 150px;
     object-fit: cover;
     margin-bottom: 10px;
+}
+
+.image-box {
+	padding: 20px 0px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 30px;
 }
 
 nav {

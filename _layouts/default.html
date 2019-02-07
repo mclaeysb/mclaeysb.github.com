@@ -13,18 +13,17 @@
       - 
       <a href="/about.html" {% if page.url == "/about.html" %}class="active"{% endif %}>About</a>
       <br>
-      <a href="/mapping.html" {% if page.url == "/mapping.html" %}class="active"{% endif %}>Mapping</a>
+      <a href="/maps.html" {% if page.url == "/maps.html" %}class="active"{% endif %}>Maps</a>
       - 
-      <a href="/urban.html" {% if page.url == "/urban.html" %}class="active"{% endif %}>Urban Planning</a>
+      <a href="/urban.html" {% if page.url == "/urban.html" %}class="active"{% endif %}>Urban planning</a>
       - 
       <a href="/science.html" {% if page.url == "/science.html" %}class="active"{% endif %}>Science</a>
       - 
-      <a href="/collective.html" {% if page.url == "/collective.html" %}class="active"{% endif %}>Collective</a>
+      <a href="/collective.html" {% if page.url == "/collective.html" %}class="active"{% endif %}>Collective learning</a>
       <br>
     </nav>
 
     <div class="content">
-      <!-- You are here: {{ page.url }} -->
       {{ content }}
     </div>
   

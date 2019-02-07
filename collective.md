@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Collective projects
+title: Collective learning projects
 category: collective
 ---
