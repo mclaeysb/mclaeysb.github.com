@@ -9,7 +9,7 @@ Hi, I'm Manuel. I made this page as some kind of _portfolio_.
 
 # About me
 
->> I'm really into maps, I can geek ..., engineering and geometry. I also like teaching and learning with/in groups. I studied 'engineering physics'. Also social
+Here are some thing about me: I'm really into maps, I like to think about cities, I can geek out on maths and science, and I love teaching and learning in groups.
 
 Wait, let me just give you a list of things I'm interested in:
 
@@ -18,13 +18,29 @@ Wait, let me just give you a list of things I'm interested in:
 - **Science, maths and engineering**: (computational) geometry, algebra, mathematical modeling, data science, information architecture, Fourier analysis, image processing, optics and photonics, fluorescence, lasers, x-ray physics, solid state physics and repairability.
 - **Collective learning**: creative processes, learning trajectories, teaching, co-mentoring, collective intelligence & sociocraty, alternative ownership and management models, facilitation and mediation, open source / data / knowledge, commons.
 
+# A mini-CV
+
+| |
+| 🏛 📚 🎓 | I studied *Engineering Physics* at Ghent university.
+| |
+| 🌍 👨‍💻 🔍 | I was a PhD student at the UGent Department of Geography for three years.
+| 🕊🗺📊 | I'm a researcher & GIS officer at the International Peace Information Service.
+| |
+| 👨‍🏫 📐 💡 | I've tutored math and science to students age 6 to 22.
+| 📰 ✍️ 📸 | I was a collaborator of the student newspaper.
+| 🌱 📱 ♻️ | I was a member of a student association for a more sustainable university.
+| ⛰ 🎨 ⚜️ | I volunteered for various youth initiatives focussing on inclusiveness, ecology, creativity, language learning and scouting.
+{: .table-cv}
+
+I was born in 1989 and live in 🇧🇪.	I speak 🇳🇱 and 🇫🇷 (natively), 🇬🇧, and a little 🇩🇪.<!--🍫🥖🍵🥨  🇳🇱🇫🇷🇬🇧🇩🇪-->
+
 # A good place for work
 
 Whether in a professional, volunteer or artistic context, good workplaces foster good work and happy workers.
 
 I find I do my best work when there's time to dive into a subject and study it well, when there's an incentive to be thorough, careful, neat and durable, when creativity and beauty are appreciated, when we're creating something that _works_ and is of use on a larger scale, when I'm surrounded by kind and capable people and when I can learn together with them in an open atmosphere.
 
-I think it's important we think about our work conditions and find out which ones work for us. I myself try to optimise my habits and systems, and like to design learning trajectories for myself and others.
+I think it's important we think about our work conditions and find out which ones work for us. I myself try to optimise my habits and systems, and like to organise knowlegde sharing sessions and design learning trajectories for myself and others.
 
 # Contact
 
