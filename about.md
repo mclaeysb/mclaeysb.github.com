@@ -38,7 +38,7 @@ I was born in 1989 and live in 🇧🇪.	I speak 🇳🇱 and 🇫🇷 (natively
 
 Whether in a professional, volunteer or artistic context, good workplaces foster good work and happy workers.
 
-I find I do my best work when there's time to dive into a subject and study it well, when there's an incentive to be thorough, careful, neat and durable, when creativity and beauty are appreciated, when we're creating something that _works_ and is of use on a larger scale, when I'm surrounded by kind and capable people and when I can learn together with them in an open atmosphere.
+I find I do my best work when there's time to dive into a subject and study it well, when there's an incentive to be thorough, careful, neat and durable, when creativity and beauty are appreciated, when we're creating something that _works_ and is of use on a larger scale, and when I'm surrounded by (a small team of) kind and capable people, where there's a curiousity to change how we look at value, money, support, time, and where we're learning together in an open atmosphere.
 
 I think it's important we think about our work conditions and find out which ones work for us. I myself try to optimise my habits and systems, and like to organise knowlegde sharing sessions and design learning trajectories for myself and others.
 
