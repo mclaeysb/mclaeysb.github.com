@@ -22,14 +22,8 @@ Wait, let me just give you a list of things I'm interested in:
 
 | |
 | 🏛 📚 🎓 | I studied *Engineering Physics* at Ghent university.
-| |
 | 🌍 👨‍💻 🔍 | I was a PhD student at the UGent Department of Geography for three years.
-| 🕊🗺📊 | I'm a researcher & GIS officer at the International Peace Information Service.
-| |
-| 👨‍🏫 📐 💡 | I've tutored math and science to students age 6 to 22.
-| 📰 ✍️ 📸 | I was a collaborator of the student newspaper.
-| 🌱 📱 ♻️ | I was a member of a student association for a more sustainable university.
-| ⛰ 🎨 ⚜️ | I volunteered for various youth initiatives focussing on inclusiveness, ecology, creativity, language learning and scouting.
+| 🕊🗺 📊 | I'm a researcher & GIS officer at the International Peace Information Service.
 {: .table-cv}
 
 I was born in 1989 and live in 🇧🇪.	I speak 🇳🇱 and 🇫🇷 (natively), 🇬🇧, and a little 🇩🇪.<!--🍫🥖🍵🥨  🇳🇱🇫🇷🇬🇧🇩🇪-->
