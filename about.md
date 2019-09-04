@@ -22,8 +22,9 @@ Wait, let me just give you a list of things I'm interested in:
 
 | |
 | 🏛 📚 🎓 | I studied *Engineering Physics* at Ghent university.
-| 🌍 👨‍💻 🔍 | I was a PhD student at the UGent Department of Geography for three years.
-| 🕊🗺 📊 | I'm a researcher & GIS officer at the International Peace Information Service.
+| 🌍 👨‍🏫 🔍 | I was a PhD student at the [UGent Department of Geography](http://geoweb.ugent.be) for three years.
+| 🕊🗺 📊 | I was a researcher, GIS officer and data scientist at [IPIS](http://ipisresearch.be) for three years.
+| 👨‍💻 🌱 🤝| Right now I'm a software engineer at [Coop It Easy](https://coopiteasy.be).
 {: .table-cv}
 
 I was born in 1989 and live in 🇧🇪.	I speak 🇳🇱 and 🇫🇷 (natively), 🇬🇧, and a little 🇩🇪.<!--🍫🥖🍵🥨  🇳🇱🇫🇷🇬🇧🇩🇪-->
