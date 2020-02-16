@@ -10,11 +10,9 @@ layout: default
 	{% endfor %}
 </a>
 
-<h1>{{ page.title }}</h1> 
+<h1><a href="{{ page.link }}" target="{% if page.link %}out{% endif %}">{{ page.title }}</a></h1> 
 
 {% if page.tagline %} <blockquote> {{ page.tagline }}  </blockquote> {% endif %}
-
-{% if page.link %} ➤ <a href="{{ page.link }}">Visit it!</a> {% endif %}
 
 {{content}}
 
