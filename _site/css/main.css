@@ -1,9 +1,10 @@
 :root {
-  --background-color: #EFE9E2;
-  --light-text-color: #9e9488;
-  --visited-text-color: #877b6c;
-  --main-text-color: #6e5b46;
-  --hover-text-color: #5e4c37;
+  --background-color: #dff0e1;
+  --light-text-color: #89a38d;
+  --visited-text-color: #79947d;
+  --main-text-color: #5d8062;
+  --hover-text-color: #436948;
+  /*--highlight-color: #f2333c;*/
 }
 
 body { 
@@ -21,6 +22,7 @@ body {
 a { color: var(--main-text-color); }
 a:visited { color: var(--visited-text-color);}
 a[target="out"]:after { 
+    /*color: var(--highlight-color);*/
     content: " ☞";
 }
 
