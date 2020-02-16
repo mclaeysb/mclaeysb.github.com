@@ -1,9 +1,9 @@
 :root {
   --background-color: #dff0e1;
-  --light-text-color: #89a38d;
-  --visited-text-color: #79947d;
-  --main-text-color: #5d8062;
-  --hover-text-color: #436948;
+  --light-text-color: #79947d;
+  --visited-text-color: #5d8062;
+  --main-text-color: #436948;
+  --hover-text-color: #305735;
   /*--highlight-color: #f2333c;*/
 }
 
