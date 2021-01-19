@@ -2,7 +2,7 @@
 layout: project
 categories: [maps, urban]
 date: 2020-04-01
-title: Corona Clearings in Schaerbeek
+title: Corona Breathing Space in Schaerbeek
 tagline: Make place for people
 organisation: 1030/0
 ---

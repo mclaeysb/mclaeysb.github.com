@@ -6,7 +6,7 @@ date: 2019-01-01
 title: Imagine Schaerbeek
 tagline: A citizen-driven mobility plan for Schaerbeek with 1030/0
 organisation: 1030/0
-link: https://imagine.brussels
+link: http://imagine.brussels
 ---
 I am part of a citizen-driven initiative to propose an alternative mobility plan for the Brussels commune of Schaerbeek. After a series of traffic-deaths where pedestrians and cyclists were run over by cars, citizens felt that too little was being done to change the street layout or combat excessive speeding. A collective called 1030/0 was formed, organising remembrances for those who lost their lives and demonstrations to draw attention to high-risk crossings. The aim was also to interact with politicians, holding them accountable for the current situation and checking the proposed measures. Often, their reply was that 'not much more can be done in this densely populated part of town'. Many disagreed and wanted to present the potential for dynamic, versatile and convivial mobility in Schaerbeek. Hence, part of the collected started a co-creation process called 'Plan/0' to explore different possible approaches and work towards a concrete, inspiring and community-supported long-term vision for an inclusive, ecological, shared and safe mobility vision for Schaerbeek.
 

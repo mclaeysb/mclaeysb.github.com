@@ -5,6 +5,7 @@ date: 2020-01-01
 title: Agora
 tagline: Facilitating a Citizen Assembly in Brussels
 organisation: Agora
+link: http://agora.brussels
 ---
 
 Agora is a Brussels citizen initiative proposing a different kind of democracy. Inspired by the book *Against Elections* by David Van Reybroeck, they imagined an institutionalised citizen assembly, drawn by lot, working side by side with the elected parliament of the Brussels Region. That's the long term goal. On the short term, they proposed a 'Trojan horse' approach: the participated in the 2019 regional elections, with a promise that if a representing volunteer was elected to the parliament, he would act as a spokesperson for an assembly body organized by Agora volunteers. This bid was successful: Pepijn Kennis was elected and the organisation of semester-long assemblies was started.
