@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_home
 ---
 <a href="{{ page.link }}">
 	{% assign file_path_img = 'img/' | append: page.slug | append: '.' %}
@@ -10,7 +10,7 @@ layout: default
 	{% endfor %}
 </a>
 
-<h1><a href="{{ page.link }}" target="{% if page.link %}out{% endif %}">{{ page.title }}</a></h1> 
+<h1>{% if page.link %}<a href="{{ page.link }}" class="external">{{ page.title }}</a>{% else %}{{ page.title }}{% endif %}</h1>
 
 {% if page.tagline %} <blockquote> {{ page.tagline }}  </blockquote> {% endif %}
 
