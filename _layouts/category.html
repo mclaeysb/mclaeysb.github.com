@@ -14,7 +14,7 @@ layout: default_home
 
 <a href="{{ project.url }}" class="project">
 
-	{% assign file_path_img = 'img/' | append: project.slug | append: '.' %}
+	{% assign file_path_img = 'thumbnail/' | append: project.slug | append: '.' %}
 	{% for file in site.static_files %}
 		{% if file.path contains file_path_img %}
 	        <div><img src="{{ file.path }}"></div>
