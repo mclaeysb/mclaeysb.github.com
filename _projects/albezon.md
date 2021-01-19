@@ -8,6 +8,6 @@ tagline: Inclusive and ecological summer retreats with youngsters
 organisation: Albezon
 link: https://vakantiekampen.blogspot.com/p/hoofdpagina.html
 ---
-Albezon is an ancient and magical hamlet hidden in a quiet valley in the French Cévennes mountain range. For over 40 year, motivated young people have spent part of their summer there rebuilding the place, spending time together, reconnecting with nature and slowing down. 
+Albezon is an ancient and magical hamlet hidden in a quiet valley in the French Cévennes mountain range. For over 40 year, the place has welcomed youngsters who spent part of their summer rebuilding the place, enjoying time together, connecting with nature and slowing down. 
 
-I was part of the team (and group of friends) of about ten volunteers who was responsible for organising these summer camps for youngsters (aged 13-21, part of which had a troubled past), and coordinated the volunteer effort for most of that time. This included making practical preparations, training animators, nurturing the volunteer atmosphere and putting the social and ecological commitments of the group into practice. 
+I was part of the team (and group of friends) of about a dozen volunteers responsible for organising the summer camps (for youngsters aged 13-21, part of whom came to us via the special youth-care system) and coordinated the volunteer effort for most of that time. This included making practical preparations, training animators, nurturing the volunteer atmosphere and putting the social and ecological commitments of the group into practice. 

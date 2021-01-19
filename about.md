@@ -16,13 +16,13 @@ Wait, let me just give you a list of things I'm interested in:
 
 What do I do for a living, you ask?
 
-| 🏛 📚 🎓 | I studied *Engineering Physics* at Ghent university.
+| 🏛 📚 🎓 | I studied *Engineering Physics* at Ghent University.
 | 🌍 👨‍🏫 🔍 | I was a PhD student at the [UGent Department of Geography](http://geoweb.ugent.be) for three years.
 | 🕊🗺 📊 | I was a researcher, GIS officer and data scientist at [IPIS](http://ipisresearch.be) for three years.
-| 👨‍💻 🌱 🤝| Right now I'm a software engineer at [Coop It Easy](https://coopiteasy.be).
+| 👨‍💻 🌱 🤝| I was a coder at the social purpose cooperative [Coop IT Easy](https://coopiteasy.be) for 1.5 years.
 {: .table-cv}
 
-I was born in 1989 and live in 🇧🇪.	I speak 🇳🇱 and 🇫🇷 (natively), 🇬🇧, and a little 🇩🇪.<!--🍫🥖🍵🥨  🇳🇱🇫🇷🇬🇧🇩🇪-->
+I was born in 1989 and live in 🇧🇪.	I speak 🇳🇱 and 🇫🇷 (natively), 🇬🇧, and a little 🇩🇪.
 
 If you want to reach me, you can send an email to [manuel.claeys.b@gmail.com](mailto:manuel.claeys.b@gmail.com). Maybe we can learn from one another. It would be my pleasure.
 

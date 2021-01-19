@@ -3,7 +3,7 @@ layout: project
 categories: maps
 date: 2018-09-01
 title: Arms and ammunition factories in Africa
-tagline: A webmap making africa's relatively unknown domestic defense industry explorable.
+tagline: A webmap making Africa's relatively unknown domestic defense industry explorable
 organisation: IPIS
 link: http://ipisresearch.be/mapping/webmapping/factories/index.html
 ---

@@ -1,6 +1,6 @@
 ---
 layout: project
-categories: collective
+categories: [science, collective]
 date: 2012-01-01
 title: Tutoring math and science
 tagline: To students age 6 to 22

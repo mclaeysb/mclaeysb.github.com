@@ -3,7 +3,7 @@ layout: project
 categories: maps
 date: 2018-07-01
 title: Conflict in the Central African Republic
-tagline: A tool to investigate the relation between conflict drivers, actors and incidents. 
+tagline: A tool to investigate the relation between conflict drivers, actors and incidents
 organisation: IPIS
 link: http://www.ipisresearch.be/mapping/webmapping/car/v2
 ---

@@ -3,7 +3,7 @@ layout: project
 categories: maps
 date: 2017-03-01
 title: Arms trade to Burundi
-tagline: A map of the trade corridors, international arms exports and recent conflict time-line.
+tagline: A map of the trade corridors, international arms exports and recent conflict time-line
 organisation: IPIS
 link: http://ipisresearch.be/publication/arms-trade-corridors-burundi/
 ---
