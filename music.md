@@ -2,7 +2,7 @@
 layout: default_home
 title: Music
 ---
-Hey, you find some of my music playlists!
+Hey, you found some of my music playlists!
 
 - [70s and 80s](https://www.youtube.com/playlist?list=PLwXO-MwN2v9pm1ozOEhGmXZLDOIs1G9Mk)
 - [Background](https://www.youtube.com/playlist?list=PLwXO-MwN2v9qA3vhJDNiYy0j7olxdxQGi)
@@ -24,4 +24,4 @@ Other playlists:
 - Lize: 
     - [Feest](https://open.spotify.com/playlist/0RIHgjz3TAEjbqwW5x2XoU) 
     - [Funky](https://open.spotify.com/playlist/0tyk0Omk6JhQwkvebkbv04) 
-    - [Dimance](https://open.spotify.com/playlist/6vxBtkdUY7R1Sdp53xRpH8)
+    - [Dimanche](https://open.spotify.com/playlist/6vxBtkdUY7R1Sdp53xRpH8)

@@ -25,18 +25,31 @@ code {
 }
 
 a { 
-  color: var(--link-text-color); 
+  color: var(--main-text-color); 
   text-decoration: none; 
 }
-a:visited { color: var(--link-text-color); }
-a.external { color: var(--main-text-color); }
-a.home:after { content: " ↩"; }
-a.internal:after { content: " →"; }
-a.external:after { 
+a:after { 
   content: " ↗︎"; 
   color: var(--link-text-color);
 }
-a.email:after { content: " ✉︎"; }
+a:visited { color: var(--main-text-color); }
+a.none:after, a.project:after { 
+  content: ""; 
+}
+a.home { 
+  color: var(--light-text-color); 
+}
+a.home:after { 
+  content: " ↩"; 
+  color: var(--light-text-color); 
+}
+a.internal { color: var(--link-text-color); }
+a.internal:after { content: " →"; }
+a.email { color: var(--link-text-color); }
+a.email:after { 
+  content: " ✉︎"; 
+  color: var(--link-text-color); 
+}
 
 h1, h2, h3, h4 { 
 	margin-bottom: .5rem;

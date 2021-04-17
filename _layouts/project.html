@@ -1,7 +1,7 @@
 ---
 layout: default_home
 ---
-<a href="{{ page.link }}">
+<a href="{{ page.link }}" class="none">
 	{% assign file_path_img = 'img/' | append: page.slug | append: '.' %}
 	{% for file in site.static_files %}
 		{% if file.path contains file_path_img %}
@@ -10,7 +10,7 @@ layout: default_home
 	{% endfor %}
 </a>
 
-<h1>{% if page.link %}<a href="{{ page.link }}" class="external">{{ page.title }}</a>{% else %}{{ page.title }}{% endif %}</h1>
+<h1>{% if page.link %}<a href="{{ page.link }}">{{ page.title }}</a>{% else %}{{ page.title }}{% endif %}</h1>
 
 {% if page.tagline %} <blockquote> {{ page.tagline }}  </blockquote> {% endif %}
 
