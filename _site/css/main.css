@@ -28,31 +28,38 @@ a {
   color: var(--main-text-color); 
   text-decoration: none; 
 }
+/* Note: Narrow non-breaking space in front of after-content! */
 a:after { 
-  content: " ↗︎"; 
+  content: " ↗︎"; 
   color: var(--link-text-color);
 }
 a:visited { color: var(--main-text-color); }
-a.none:after, a.project:after { 
+a.none:after, a.project:after, a.footnote:after, a.reversefootnote:after { 
   content: ""; 
 }
 a.home { 
   color: var(--light-text-color); 
 }
 a.home:after { 
-  content: " ↩"; 
+  content: " ↩"; 
   color: var(--light-text-color); 
 }
 a.internal { color: var(--link-text-color); }
 a.internal:after { content: " →"; }
 a.email { color: var(--link-text-color); }
 a.email:after { 
-  content: " ✉︎"; 
+  content: " ✉︎"; 
+  color: var(--link-text-color); 
+}
+a.language { font-style: italic; }
+a.language:after { 
+  content: " ⚐"; 
   color: var(--link-text-color); 
 }
 
 h1, h2, h3, h4 { 
-	margin-bottom: .5rem;
+	margin-top: 1.2rem;
+  margin-bottom: .5rem;
 	line-height: 1.25;
 	font-weight: 600;
 }
@@ -67,7 +74,12 @@ blockquote {
 	color: var(--light-text-color);
 	padding: 0 1em;
 	margin: 10px 0px;
-} 
+}
+
+div.footnotes {
+  font-size: 0.8em; 
+  line-height: 1.5em;
+}
 
 img {
   width: 100%;
@@ -135,4 +147,4 @@ nav a {
 }
 nav a:visited { color: var(--light-text-color); }
 nav a.active { color: var(--main-text-color); }
-nav a:hover { color: var(--hover-text-color); }
+/*nav a:hover { color: var(--hover-text-color); }*/

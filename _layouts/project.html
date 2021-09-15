@@ -19,12 +19,10 @@ layout: default_home
 — @ {{ page.organisation }}, {% if page.date_start %} {{page.date_start | date: "%Y" }} to {% endif %} {{page.date | date: "%Y" }} 
 
 <div class="image-box">
-
 {% assign file_path_img_ = 'img/' | append: page.slug | append: '_' %}
 {% for file in site.static_files %}
 	{% if file.path contains file_path_img_ %}
         <img src="{{ file.path }}"/>    
     {% endif %}
 {% endfor %}
-
 </div>
