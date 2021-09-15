@@ -4,7 +4,7 @@ title: Can I help you out?
 ---
 # Can I help you out?
 
-Need a facilitator, programmer or map-maker for your inspiring project? To give my volunteer experience a sustainable continuation, I offer my collaboration for short assignments as an independent contributor.
+Need a facilitator, programmer, map-maker or game-organiser for your inspiring project? To give my volunteer experience a sustainable continuation, I offer my collaboration for short assignments as an independent contributor.
 
 Ik ben ook beschikbaar <a href="/freelance_nl" class="language">in het nederlands</a> et <a href="/freelance_fr" class="language">en français</a>!
 

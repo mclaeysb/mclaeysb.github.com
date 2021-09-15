@@ -4,7 +4,7 @@ title: Puis-je vous aider ?
 ---
 # Puis-je vous aider ?
 
-Besoin d'un facilitateur, programmeur ou cartographe pour votre projet inspirant ? Afin de pérenniser mon expérience de volontariat, je propose ma collaboration pour des missions courtes en tant qu'intervenant indépendant.
+Besoin d'un facilitateur, programmeur, cartographe ou orgisateur de jeux pour votre projet inspirant ? Afin de pérenniser mon expérience de volontariat, je propose ma collaboration pour des missions courtes en tant qu'intervenant indépendant.
 
 Ik ben ook beschikbaar <a href="/freelance_nl" class="language">in het nederlands</a> and <a href="/freelance" class="language">in English</a> !
 

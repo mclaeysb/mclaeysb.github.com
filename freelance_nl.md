@@ -4,7 +4,7 @@ title: Kan ik u helpen?
 ---
 # Kan ik u helpen?
 
-Een facilitator, programmeur of kaartenmaker nodig voor uw geïnspireerd project? Om mijn vrijwilligerservaring een duurzaam vervolg te geven, bied ik mijn hulp voor korte opdrachten aan als zelfstandig in bijberoep.
+Een facilitator, programmeur, kaartenmaker of spel-organisator nodig voor uw geïnspireerd project? Om mijn vrijwilligerservaring een duurzaam vervolg te geven, bied ik mijn hulp voor korte opdrachten aan als zelfstandig in bijberoep.
 
 Je suis aussi disponible <a href="/freelance_fr" class="language">en français</a> and <a href="/freelance" class="language">in English</a>!
 
