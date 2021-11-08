@@ -1,7 +1,8 @@
 ---
 layout: project
 categories: [collective]
-date: 2020-01-01
+date_start: 2020-01-01
+date: 2021-01-01
 title: Agora
 tagline: Facilitating a Citizen Assembly in Brussels
 organisation: Agora
