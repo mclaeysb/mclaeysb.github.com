@@ -5,7 +5,7 @@ date: 2021-10-01
 title: FerrarGIS
 tagline: Using QGIS to apply a 1777 style to today's OpenStreetMap data.
 organisation: Home
-link: https://mclaeysb.github.io/ferrarGIS/
+link: https://github.com/mclaeysb/FerrarGIS
 ---
 
 <!-- before-effect-slider style -->
