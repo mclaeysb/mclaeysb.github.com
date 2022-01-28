@@ -136,7 +136,7 @@ As a contributor to OpenStreetMap and user of modern GIS tools for desktop and b
 
 > What would it look like if count de Ferraris would have made his map today?
 
-So in this project, I *strapped on a pair* and took the tools I know as far as I could with that goal in mind. Let me tell you how that went. But first, here's a peek at the result:
+So in this project, I *strapped on a pair* and took the tools I know as far as I could with that goal in mind. Let me tell you how that went. But first, here's a peek at the result (drag the slider in the middle to compare):
 
 <div id="compare_ferrargis_gent_a5_landscape"></div>
 
@@ -150,7 +150,7 @@ The Ferraris maps have a very recognisable style, but not every Ferraris map she
 
 To make the QGIS style-sheet resemble the original Ferraris map as much as possible, I used carefully sampled colors and fill-images in the style definitions of the drawn objects. To obtain the right fill colors for things like buildings, grass and water polygons, I used a color picker tool to find the right colors on the old map. For more complex features like woodlands, marshes and heath that are drawn with beautiful textures and miniatures on the old map, I took a screenshot of such these drawings, used GIMP to clean up the images and make them seamlessly tileable, and then used them as the background images for the corresponding features.
 
-To get as close as possible to the 1777 style, I used quite a few advanced QGIS features, including *draw effects*, drawing things as *merged feature*, adding some trees in a randomised way, styling polygons with gradient fills and adding a custom *speckle* layer on top of the map to give it an *old* finish. I found a suiting typeface called *Youngbae* which I used for the labels, and gave these a small tilt similar to what you get when you plot the old maps with there tilted north baring on top of a modern map.
+To get as close as possible to the 1777 style, I used quite a few advanced QGIS features, including *draw effects*, drawing things as *merged feature*, adding some trees in a randomised way, styling polygons with gradient fills and adding a custom *speckle* layer on top of the map to give it an *old* finish. I found a suiting typeface called *Youngbae* which I used for the labels, and gave these a small tilt similar to what you get when you plot the old maps with their tilted north baring on top of a modern map.
 
 ## Result
 
@@ -557,7 +557,7 @@ Again, the old town hasn't changed much. Also notice the fortifications of Damme
             Buttons: true, // Show before and after buttons ?
             ButtonsText: { //After Before Buttons Texts
                 before: picture.city + " (Ferraris 1777)",
-                after: picture.city + " (FerrarGIS)"
+                after: picture.city + " (FerrarGIS 2021)"
             },
             Border: { // Border properties
                 color: 'black',
