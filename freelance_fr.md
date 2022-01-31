@@ -48,7 +48,7 @@ Si cette façon de foncionner ne vous convient pas, je peux également faire un 
 
 Dites-moi comment je pourrais vous aider, par mail à <a href="mailto:manuel.claeys.b@gmail.com" class="email">manuel.claeys.b@gmail.com</a>.
 
-<div class="image-box">
+<div class="image-box with-padding-top">
 {% assign file_path_img_ = 'img/' | append: 'freelance' | append: '_' %}
 {% for file in site.static_files %}
     {% if file.path contains file_path_img_ %}

@@ -48,7 +48,7 @@ If this way of working doesn't suit you, I can also make a normal quotation for 
 
 Tell me how I could help you, by email at <a href="mailto:manuel.claeys.b@gmail.com" class="email">manuel.claeys.b@gmail.com</a>.
 
-<div class="image-box">
+<div class="image-box with-padding-top">
 {% assign file_path_img_ = 'img/' | append: 'freelance' | append: '_' %}
 {% for file in site.static_files %}
     {% if file.path contains file_path_img_ %}

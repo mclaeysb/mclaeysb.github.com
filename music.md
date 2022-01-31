@@ -1,5 +1,5 @@
 ---
-layout: default_home
+layout: default
 title: Music
 ---
 Hey, you found some of my music playlists!

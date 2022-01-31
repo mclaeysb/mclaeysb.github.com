@@ -40,15 +40,22 @@ a.none:after, a.project:after, a.footnote:after, a.reversefootnote:after {
 a.home { 
   color: var(--light-text-color); 
 }
-a.home:after { 
-  content: " ↩"; 
+a.home:after {
+  content: ""; 
+}
+a.home:before { 
+  content: "← "; 
   color: var(--light-text-color); 
 }
 a.internal { color: var(--link-text-color); }
 a.internal:after { content: " →"; }
-a.email { color: var(--link-text-color); }
+/*a.email { color: var(--link-text-color); }*/
 a.email:after { 
   content: " ✉︎"; 
+  color: var(--link-text-color); 
+}
+a.phone:after { 
+  content: " ✆"; 
   color: var(--link-text-color); 
 }
 a.language { font-style: italic; }
@@ -76,6 +83,18 @@ blockquote {
 	margin: 10px 0px;
 }
 
+.focus {
+  background: white;
+  margin: 30px 20px 40px 20px;
+  padding: 12px 26px;
+  border-radius: 4px;
+}
+
+.focus h1, .focus h2 {
+  margin-top: 1.4rem;
+  margin-bottom: 0.7rem;
+}
+
 div.footnotes {
   font-size: 0.8em; 
   line-height: 1.5em;
@@ -86,6 +105,7 @@ img {
   border-style: solid;
   border-color: var(--main-text-color);
   border-width: 2px;
+  border-radius: 4px;
   /*box-shadow: 0px 0px 10px #00000040;*/
 }
 
@@ -94,16 +114,11 @@ img.main {
   object-fit: cover;
 }
 
-.image-box img {
-	height: 300px;
-	object-fit: cover;
-}
-
 .project-box {
+  margin-top: 50px;
   display: grid;
   grid-template-columns: repeat(3,1fr);
   grid-gap: 30px;
-  margin-top: 50px;
 }
 
 .project-box a.project {
@@ -123,11 +138,23 @@ img.main {
 }
 
 .image-box {
-	padding: 20px 0px;
-  margin-top: 30px;
+	margin-top: 30px;
   display: grid;
   grid-template-columns: repeat(2,1fr);
   grid-gap: 30px;
+}
+
+.image-box.with-padding-top {
+  padding-top: 20px;
+}
+
+.image-box.with-padding-bottom {
+  padding-bottom: 40px;
+}
+
+.image-box img {
+  height: 300px;
+  object-fit: cover;
 }
 
 .table-cv td {
@@ -139,7 +166,8 @@ nav {
 	color: var(--light-text-color);
 	/*border-bottom: 1px solid #000;*/
 	padding-bottom: 15px;
-	margin-bottom: 20px;
+	margin-top: 16px;
+  margin-bottom: 20px;
 }
 nav a { 
   text-decoration: none; 
@@ -148,3 +176,22 @@ nav a {
 nav a:visited { color: var(--light-text-color); }
 nav a.active { color: var(--main-text-color); }
 /*nav a:hover { color: var(--hover-text-color); }*/
+
+@media screen and (max-width:720px){
+  body{
+    width:auto
+  }
+}
+@media screen and (max-width:600px){
+  .project-box{
+    grid-template-columns:repeat(2,1fr)
+  }
+}
+@media screen and (max-width:400px){
+  .project-box{
+    grid-template-columns:repeat(1,1fr)
+  }
+  .image-box{
+    grid-template-columns:repeat(1,1fr)
+  }
+}
