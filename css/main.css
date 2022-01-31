@@ -64,6 +64,7 @@ a.language:after {
   color: var(--link-text-color); 
 }
 
+
 h1, h2, h3, h4 { 
 	margin-top: 1.2rem;
   margin-bottom: .5rem;

@@ -2,22 +2,33 @@
 layout: public
 title: Manuel Claeys Bouuaert - Facilitator
 ---
-<img src="img/manuel.jpg" class="portrait">
+<div class="image-box with-padding-bottom">
+    <img src="img/manuel.jpg">
+    <div style="margin:auto 10px">
+        <p><h2>Hi, I'm Manuel.</h2></p>
+        <p>As a freelance facilitator, I accompany organizations towards a more cooperative working-together.</p>
+        <p>
+            <a href="mailto:manuel.claeys.b@gmail.com" class="email">manuel.claeys.b@gmail.com</a><br>
+            <!-- <a href="tel:TELTELTEL" class="phone">TELTELTEL</a> -->
+        </p>
+        <p>
+            <a href="/index_nl" class="language">NL</a>
+            <a href="/index_fr" class="language">FR</a>
+        </p>
+    </div>
+</div>
 
-Hi, I'm Manuel. As a freelance facilitator, I accompany organizations towards a more cooperative working-together.
+<!-- About me? I was born in 1989 and live in Belgium, waar ik taalmopjes maak in't Nederlands et où je complimente des inconnus en rue en français. I studied Engineering Physics at Ghent university and was a PhD student at the UGent Department of Geography for three years. I worked at the [International Peace Information Service](https://ipisresearch.be) as a GIS officer and data scientist for three years. Then I joined the social-purpose worker cooperative [Coop IT Easy](https://coopiteasy.be) as a software engineer for one and a half years. I also did some freelance work for some of the projects listed on this website - most notably for [Agora](https://agora.brussels) redoing the website and running the online participation platform.
+ -->
 
-<a href="/freelance" class="internal">Let me help you out</a>!
+<!-- # Can I help you out?
 
-# How I can help you
+Need a facilitator, programmer, map-maker or game-organiser for your inspiring project? To give my volunteer experience a sustainable continuation, I offer my collaboration for short assignments as an independent contributor.
 
-- Facilitation. 
-- Rethink gouvernance. Help you organise for. Mettre en place. Practical guidance for self-organising teams (dus meer uit perspectief ‘je bent het wss al’ dan ‘ik kom het eens uitleggen’.
-- Organising for technical challenges 
-- A la carte.
+## How I can help
 
-Help you organise for. Mettre en place. Practical guidance for self-organising teams (dus meer uit perspectief ‘je bent het wss al’ dan ‘ik kom het eens uitleggen’.
-
-
-About me? I was born in 1989 and live in Belgium, waar ik taalmopjes maak in't Nederlands et où je complimente des inconnus en rue en français. I studied Engineering Physics at Ghent university and was a PhD student at the UGent Department of Geography for three years. I worked at the [International Peace Information Service](https://ipisresearch.be) as a GIS officer and data scientist for three years. Then I joined the social-purpose worker cooperative [Coop IT Easy](https://coopiteasy.be) as a software engineer for one and a half years. I also did some freelance work for some of the projects listed on this website - most notably for [Agora](https://agora.brussels) redoing the website and running the online participation platform.
-
-You can reach me at <a href="mailto:manuel.claeys.b@gmail.com" class="email">manuel.claeys.b@gmail.com</a>.
+- A **delicate meeting** is coming up at your (volunteer) work: I can facilitate it.
+- Your cooperative is going on a retreat to **set out the strategy** for the coming year or think creatively around a new theme: I am eager to guide this exercise.
+- You and your neighbors want to **protest against a plan from the municipality**: I help you start a conversation together in which everyone can be heard, and where you can explore the different options together on handy map material.
+- Your team is going on team building and you want to get to know each other in a different way by going all-out during **a mad game**: I'd be happy to set it up for you.
+- Your team suddenly has a lot of **(geographical) data to process**: I can dive into and get the first insights, and together we can look for a suitable tool and an appropriate learning path. -->

@@ -5,7 +5,7 @@ title: Manuel's portfolio
 
 Hi, I'm Manuel.
 
-I'm a <a href="/index_nl" class="internal">freelance facilitator</a> and cartographer.
+I'm a <a href="/index" class="internal">freelance facilitator</a> and cartographer.
 
 Here's an overview of some of the projects I've been involved in.
 
