@@ -20,7 +20,7 @@ title: Manuel Claeys Bouuaert - Facilitateur
     </div>
 </div>
 
-<h1 class="with-margin-top">Organiser de travail en équipe, c'est tout un art</h1>
+<h1 class="with-margin-top">Organiser le travail en équipe, c'est tout un art</h1>
 
 Si vous souhaitez améliorer la coopération au sein de votre équipe, de nombreuses questions peuvent se poser :
 
@@ -30,7 +30,7 @@ Si vous souhaitez améliorer la coopération au sein de votre équipe, de nombre
 
 > "Une organisation composée d'<mark>équipes autogérées</mark>, ça sonne bien, mais comment s'y prendre ?"
 
-> "Comment planifier ensemble de manière réaliste, se tenir mutuellement informés et s'ajuster <mark>de façon agile</mark> quand nécessaire ?"
+> "Comment planifier ensemble de manière réaliste, se tenir mutuellement informés et s'ajuster <mark>de façon souple</mark> si nécessaire ?"
 
 </div>
 
@@ -44,7 +44,7 @@ Mon métier est d'accompagner les organisations à relever ces défis -- en <a h
 
 ## J'<mark>anime</mark> votre réunion ou atelier
 
-Je viens et <mark>guide le déroulement</mark> de votre réunion en tant que personne neutre, ou, par exemple, je peux mettre en place une série d'ateliers créatifs. Je vous aide à déliberer et à prendre des décisions de façon efficace en utilisant des méthodes appropriées (*Management By Consent*, *Moving Debate*, ...), et/ou je vous assiste à brainstormer sur votre sujet en explorant toutes les perspectives possibles en groupe (*Chapeaux de Bono*, *World Café*, ...). Via ma posture, j'essaie d'offrir un cadre dans lequel la contribution de chacun est <mark>entendue et appréciée</mark>.
+Je viens <mark>guider le déroulement</mark> de votre réunion en tant que personne neutre, ou, par exemple, je peux mettre en place une série d'ateliers créatifs. Je vous aide à déliberer et à prendre des décisions de façon efficace en utilisant des méthodes appropriées (*Management By Consent*, *Moving Debate*, ...), et/ou je vous assiste à brainstormer sur votre sujet en explorant toutes les perspectives possibles en groupe (*Chapeaux de Bono*, *World Café*, ...). Via ma posture, j'essaie d'offrir un cadre dans lequel la contribution de chacun est <mark>entendue et appréciée</mark>.
 
 </div>
 
@@ -60,7 +60,7 @@ Je travaille avec vous sur des <mark>mandats clairs</mark>, un bon flux d'inform
 
 <div class="focus" markdown="1">
 
-*Vous recherchez un SCRUM-master pour votre projet engagé afin d'assurer un bon fonctionnement dans votre équipe (technique) au cours des prochains mois ? Vous avez besoin d'un nouvel outil de gestion dont la mise en place aura des conséquences sur votre fonctionnement interne, et souhaitez que ceci soit bien préparé et suivi ?*
+*Vous recherchez un SCRUM-master pour votre projet engagé afin d'assurer un bon fonctionnement dans votre équipe (technique) au cours des prochains mois ? Vous avez besoin d'un nouvel outil de gestion dont la mise en place aura des conséquences sur votre fonctionnement interne, et vous souhaitez que ceci soit bien préparé et suivi ?*
 
 ## Je facilite votre <mark>équipe technique</mark>
 
@@ -74,7 +74,7 @@ Souvent, une demande se situe quelque part entre les deux et/ou la clarifier fai
 
 En tant que facilitateur indépendant <mark>trilingue (NL/FR/EN)</mark>, j'accompagne les entreprises et les projets engagés dans ce qu'ils veulent réaliser, mais plus encore, dans leur manière de faire-ensemble --- comme objectif puissant et transformateur en soi.
 
-Je facilite pour des entreprises et le secteur public ainsi que pour des organisations à but non lucratif, des coopératives et des collectifs citoyens, allant de petites équipes à des assemblées générales bien fréquentées. En direct si possible, en visioconférence si cela est plus approprié. Mon port d'attache est <mark>Bruxelles</mark> et je suis mobile en Belgique.
+Je facilite pour des entreprises et le secteur public ainsi que pour des organisations à but non lucratif, des coopératives et des collectifs citoyens, allant de petites équipes à des assemblées générales fort fréquentées. En direct si possible, en visioconférence si cela est plus approprié. Mon port d'attache est <mark>Bruxelles</mark> et je suis mobile en Belgique.
 
 **M'ont déjà confié leur processus :**
 
@@ -91,7 +91,7 @@ Un réseau diversifié de facilitateurs se développe à Bruxelles — et je tra
 
 Dans mon travail de facilitateur, je m'appuie sur plus de 10 ans d'expérience dans divers projets, au cours desquels j'ai de plus en plus complété mon <mark>approche analytique</mark> par un rôle d'<mark>accompagnement de processus</mark> --- deux côtés qui se renforcent mutuellement.
 
-J'ai obtenu mon diplôme d'ingénieur en physique appliquée et j'ai travaillé comme doctorant, comme data scientist dans une ONG et comme developpeur de logiciel dans une coopérative de travailleurs autogéré. J'ai travaillé dans des équipes de recherche, dirigé des restructurations complexes de pipelines de données et facilité des mise au verts. J'ai également été longtemps actif dans le travail de jeunesse avec une approche inclusive et créative, et je suis impliquée en tant que facilitateur dans le mouvement citoyen pour une démocratie délibérative [Agora](https://agora.brussels). Je peux m'appuyer sur ces expériences étant conscient du travail d'équipe qu'elles représentent, des épaules sur lesquelles je m'appuie et des privilèges que j'ai reçus.
+J'ai obtenu mon diplôme d'ingénieur en physique appliquée et j'ai travaillé comme doctorant, comme data scientist dans une ONG et comme developpeur de logiciel dans une coopérative de travailleurs autogéré. J'ai travaillé dans des équipes de recherche, dirigé des restructurations complexes de pipelines de données et facilité des mise au verts. J'ai également été longtemps actif dans le travail de jeunesse avec une approche inclusive et créative, et je suis impliquée en tant que facilitateur dans le mouvement citoyen pour une démocratie délibérative [Agora](https://agora.brussels). Je peux m'appuyer sur ces expériences, étant conscient du travail d'équipe qu'elles représentent, des épaules sur lesquelles je me tiens et des privilèges que j'ai reçus.
 
 Outre le fait que j'aime me tenir devant des groupes, en tant que <a href="/carto" class="internal">cartographe</a> indépendant je réalise également des cartes imprimées et interactives, y compris la gestion des données et la programmation.
 

@@ -152,6 +152,7 @@ blockquote {
   border-color: var(--light-text-color);
   border-width: 2px;
   border-radius: 4px;
+  /*box-shadow: 0px 0px 14px #00000040;*/
 }
 
 .small-caps { font-variant: small-caps }
@@ -167,7 +168,7 @@ img {
   border-color: var(--light-text-color);
   border-width: 2px;
   border-radius: 4px;
-  /*box-shadow: 0px 0px 10px #00000040;*/
+  /*box-shadow: 0px 0px 14px #00000040;*/
 }
 img.main {
   height: 150px;
