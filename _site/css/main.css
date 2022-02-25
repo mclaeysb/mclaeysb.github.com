@@ -123,6 +123,8 @@ mark {
   padding: .15rem .4rem;
   background: linear-gradient(-100deg, hsla(var(--highlight2-text-color-hsl),.3), hsla(var(--highlight2-text-color-hsl),.5) 60%, hsla(var(--highlight2-text-color-hsl),.5) 95%, hsla(var(--highlight2-text-color-hsl),.1));
   /*background: linear-gradient(-100deg, hsla(48,92%,75%,.3), hsla(48,92%,75%,.7) 95%, hsla(48,92%,75%,.1));*/
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
 }
 code {
   font-family: var(--mono-font); 
