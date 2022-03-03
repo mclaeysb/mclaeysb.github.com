@@ -24,7 +24,7 @@ title: Manuel Claeys Bouuaert - Facilitateur
 
 Si vous souhaitez améliorer la coopération au sein de votre équipe, de nombreuses questions peuvent se poser :
 
-<div style="margin:40px 30px" markdown="1">
+<div class="mainquote" markdown="1">
 
 > "<mark>Comment impliquer les personnes dans les décisions</mark> sans passer autant de temps en réunion ?"
 
@@ -102,7 +102,7 @@ Outre le fait que j'aime me tenir devant des groupes, en tant que <a href="/cart
 
 <h1 class="with-margin-top">Mon tarif</h1>
 
-La rémunération peut s'organiser de manière traditionnelle : lors de notre contact nous cherchons ensemble ce qui est possible en fonction de mon tarif <mark>à l'heure ou à la partie de journée</mark> et de vos ressources disponibles. Alternativement, si vous le souhaitez, nous pouvons également expérimenter ensemble des formes de compensation plus partagées telles qu'un *Échange Conscient*.
+La rémunération peut s'organiser de manière traditionnelle : lors de notre contact nous cherchons ensemble ce qui est possible en fonction de mon tarif <mark>à l'heure ou à la journée</mark> et de vos ressources disponibles. Alternativement, si vous le souhaitez, nous pouvons également expérimenter ensemble des formes de compensation plus partagées telles qu'un *Échange Conscient*.
 
 <h1 class="with-margin-top">Contact</h1>
 
@@ -116,4 +116,4 @@ Afin de pouvoir vous aider au mieux, il est utile de préciser : votre situation
 <a href="tel:+32485748811" class="phone">0485 74 88 11</a>
 </div>
 
-Manuel Claeys Bouuaert --- <span class="small-caps" markdown="1">tva: be0747868317</span> --- <span class="small-caps" markdown="1">iban: be31001904377455</span>
+Manuel Claeys Bouuaert --- `VAT: BE0747868317` --- `IBAN: BE31001904377455`

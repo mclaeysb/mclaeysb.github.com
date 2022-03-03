@@ -24,7 +24,7 @@ title: Manuel Claeys Bouuaert - Facilitator
 
 If you want to improve collaboration within your team, a lot of questions can come up:
 
-<div style="margin:40px 30px" markdown="1">
+<div class="mainquote" markdown="1">
 
 > "<mark>How can we include people in decisions</mark> without spending so much time in meetings?"
 
@@ -102,7 +102,7 @@ Besides the fact that I like to stand in front of groups I also make printed and
 
 <h1 class="with-margin-top">My rate</h1>
 
-Compensation can be arranged in the traditional way: during our contact, we can find out what's possible based on my rate <mark>per hour or part of the day</mark> and your available resources. Alternatively, if you wish, we can also jointly experiment with more shared forms of compensation such as a *Conscious Exchange*.
+Compensation can be arranged in the traditional way: during our contact, we can find out what's possible based on my rate <mark>per hour or per day</mark> and your available resources. Alternatively, if you wish, we can also jointly experiment with more shared forms of compensation such as a *Conscious Exchange*.
 
 <h1 class="with-margin-top">Contact</h1>
 
@@ -116,5 +116,5 @@ To be able to help you as best as possible, it's useful to know the following: y
 <a href="tel:+32485748811" class="phone">0485 74 88 11</a>
 </div>
 
-Manuel Claeys Bouuaert --- <span class="small-caps" markdown="1">vat: be0747868317</span> --- <span class="small-caps" markdown="1">iban: be31001904377455</span>
+Manuel Claeys Bouuaert --- `VAT: BE0747868317` --- `IBAN: BE31001904377455`
 

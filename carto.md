@@ -54,6 +54,8 @@ I was born in 1989 and live in ~~Ghent~~ Brussels. After my studies as an engine
 
 I'm on team *Open Knowledge*; contributing to OpenStreetMap, using <mark>Open Source tools</mark> and sharing my own code, learnings and creations as much as possible. Let's create *knowledge for the many, not the few*.
 
+Tools I've used include QGIS/GDAL -- Mapbox GL JS -- JavaScript/Node -- SQL/Postgres -- R/dplyr -- Python/Pandas/Jupyter -- CLI -- Git -- MatLab -- and even Ruby/Jekyll to make this very website (10/10 would recommend!).
+
 **I've cooperated with:**
 
 > [UGent department of Geography](http://geoweb.ugent.be/), [International Peace Information Service](https://ipisresearch.be/), [Endeavour](https://endeavours.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...

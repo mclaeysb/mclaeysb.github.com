@@ -24,7 +24,7 @@ title: Manuel Claeys Bouuaert - Facilitator
 
 Als u de samenwerking in uw team wilt verbeteren, dan kunnen daar heel wat vragen bij komen kijken:
 
-<div style="margin:40px 30px" markdown="1">
+<div class="mainquote" markdown="1">
 
 > "<mark>Hoe betrekken we mensen bij beslissingen</mark> zonder zoveel tijd in meetings te spenderen?"
 
@@ -116,5 +116,4 @@ Om u zo goed mogelijk te kunnen helpen is het handig om de volgende zaken te ver
 <a href="tel:+32485748811" class="phone">0485 74 88 11</a>
 </div>
 
-Manuel Claeys Bouuaert --- <span class="small-caps" markdown="1">btw: be0747868317</span> --- <span class="small-caps" markdown="1">iban: be31001904377455</span>
-
+Manuel Claeys Bouuaert --- `VAT: BE0747868317` --- `IBAN: BE31001904377455`
