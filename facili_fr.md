@@ -44,7 +44,7 @@ Mon métier est d'accompagner les organisations à relever ces défis -- en <a h
 
 ## J'<mark>anime</mark> votre réunion ou atelier
 
-Je viens <mark>guider le déroulement</mark> de votre réunion en tant que personne neutre, ou, par exemple, je peux mettre en place une série d'ateliers créatifs. Je vous aide à déliberer et à prendre des décisions de façon efficace en utilisant des méthodes appropriées (*Management By Consent*, *Moving Debate*, ...), et/ou je vous assiste à brainstormer sur votre sujet en explorant toutes les perspectives possibles en groupe (*Chapeaux de Bono*, *World Café*, ...). Via ma posture, j'essaie d'offrir un cadre dans lequel la contribution de chacun est <mark>entendue et appréciée</mark>.
+Je viens <mark>guider le déroulement</mark> de votre réunion en tant que personne neutre: je peux vous aider à déliberer et à prendre des décisions de façon efficace en utilisant des processus innovantes (*Management By Consent*, *Moving Debate*, ...), ou je peux mettre en place une série d'ateliers créatifs pour brainstormer sur votre sujet en explorant toutes les perspectives possibles en groupe (*Chapeaux de Bono*, *World Café*, ...). Via ma posture, j'essaie d'offrir un cadre dans lequel la contribution de chacun est <mark>entendue et appréciée</mark>.
 
 </div>
 

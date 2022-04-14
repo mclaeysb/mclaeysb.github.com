@@ -58,7 +58,7 @@ Tools I've used include QGIS/GDAL -- Mapbox GL JS -- JavaScript/Node -- SQL/Post
 
 **I've cooperated with:**
 
-> [UGent department of Geography](http://geoweb.ugent.be/), [International Peace Information Service](https://ipisresearch.be/), [Endeavour](https://endeavours.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [UGent department of Geography](http://geoweb.ugent.be/), [IPIS - International Peace Information Service](https://ipisresearch.be/), [Endeavour](https://endeavours.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 I'm happy to share more about my previous projects upon request.
 

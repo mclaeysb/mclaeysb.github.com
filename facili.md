@@ -44,7 +44,7 @@ It's my job to guide organizations taking on these challenges -- in <a href="/fa
 
 ## I <mark>facilitate</mark> your meeting or workshop
 
-I come and join your meeting as a neutral person to <mark>make it run smoothly</mark>, or I can, for example, put in place a series of creative workshops. Using appropriate methods I facilitate deliberation and decisionmaking (*Management By Consent*, *Moving Debate*, ...) and/or let you brainstorm in group, looking at your topic from all possible perspectives (*Hats of Bono*, *World Café*, ...). Through my posture, I hold a space in which everyone's contribution is <mark>heard and appreciated</mark>.
+I host your meeting as a neutral person to <mark>make it run smoothly</mark>: I can facilitate deliberation and decisionmaking using innovative processes (*Management By Consent*, *Moving Debate*, ...) or can put in place a series of creative workshops to brainstorm in group and look at your topic from all possible perspectives (*Hats of Bono*, *World Café*, ...). Through my posture, I hold a space in which everyone's contribution is <mark>heard and appreciated</mark>.
 
 </div>
 

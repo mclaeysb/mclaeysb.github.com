@@ -44,7 +44,7 @@ Het is mijn job organisaties te begeleiden bij het opnemen van deze uitdagingen 
 
 ## Ik <mark>faciliteer</mark> uw vergadering of workshop
 
-Ik kom jullie vergadering als neutrale persoon <mark>in goede banen leiden</mark>, of verzorg bijvoorbeeld een reeks creatieve workshops. Via passende methodieken help ik jullie efficient overleggen en beslissingen nemen (*Management By Consent*, *Moving Debate*, ...) en/of vanuit alle mogelijke blikken te brainstormen in groep (*Chapeaux de Bono*, *World Café*, ...). Ik probeer via mijn houding een kader te bieden waarin eenieders bijdrage <mark>gehoord en gewaardeerd</mark> wordt. 
+Ik host jullie vergadering als neutrale persoon en leidt ze in <mark>in goede banen</mark>: ik kan jullie helpen efficient te overleggen en beslissingen te nemen via innoviatieve methodieken (*Management By Consent*, *Moving Debate*, ...), of kan een reeks creatieve workshops verzorgen om vanuit alle mogelijke blikken te brainstormen in groep (*Chapeaux de Bono*, *World Café*, ...). Ik probeer via mijn houding een kader te bieden waarin eenieders bijdrage <mark>gehoord en gewaardeerd</mark> wordt. 
 
 </div>
 
