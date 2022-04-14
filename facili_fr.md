@@ -81,7 +81,7 @@ Je facilite pour des entreprises et le secteur public ainsi que pour des organis
 > [NorWest](https://www.norwest.be/nl/), [Confluences](https://www.confluences.eu/), [MicroMarché](http://www.micromarche.com/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
-    <img src="img/freelance_1.jpg"/>
+    <img src="img/freelance_2.jpg"/>
     <img src="img/freelance_4.jpg"/>
 </div>
 

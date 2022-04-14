@@ -81,7 +81,7 @@ I facilitate in service of companies and the public sector as well as for non-pr
 > [NorWest](https://www.norwest.be/nl/), [Confluences](https://www.confluences.eu/), [MicroMarché](http://www.micromarche.com/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
-    <img src="img/freelance_1.jpg"/>
+    <img src="img/freelance_2.jpg"/>
     <img src="img/freelance_4.jpg"/>
 </div>
 
@@ -96,7 +96,7 @@ I graduated as an engineer in Applied Physics and worked as a PhD student, as a 
 Besides the fact that I like to stand in front of groups I also make printed and interactive maps as a freelance <a href="/carto" class="internal">cartographer</a>, including data management and programming.
 
 <div class="image-box">
-    <img src="img/freelance_2.png"/>
+    <img src="img/freelance_1.jpg"/>
     <img src="img/freelance_3.jpg"/>
 </div>
 

@@ -81,7 +81,7 @@ Ik faciliteer zowel voor bedrijven en de publieke sector als voor vzw's, coopera
 > [NorWest](https://www.norwest.be/nl/), [Confluences](https://www.confluences.eu/), [MicroMarché](http://www.micromarche.com/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
-    <img src="img/freelance_1.jpg"/>
+    <img src="img/freelance_2.jpg"/>
     <img src="img/freelance_4.jpg"/>
 </div>
 
@@ -96,7 +96,7 @@ Ik studeerde af als ingenieur in de Toegepaste Natuurkunde en werkte als PhD stu
 Naast het feit dat ik graag voor groepen sta, maak ik als freelance <a href="/carto" class="internal">cartograaf</a> ook geprinte en interactieve kaarten, incl. data-beheer en programmeerwerk.
 
 <div class="image-box">
-    <img src="img/freelance_2.png"/>
+    <img src="img/freelance_1.jpg"/>
     <img src="img/freelance_3.jpg"/>
 </div>
 
