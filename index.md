@@ -1,6 +1,6 @@
 ---
 layout: public
-title: Manuel Claeys Bouuaert - Facilitator
+title: Manuel Claeys Bouuaert - Facilitator and Cartographer
 ---
 <div class="image-box">
     <img src="img/manuel.jpg">

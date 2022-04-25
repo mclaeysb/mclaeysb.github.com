@@ -1,6 +1,6 @@
 ---
 layout: public
-title: Manuel Claeys Bouuaert - Carto
+title: Manuel Claeys Bouuaert - Cartographer
 ---
 <div class="image-box">
     <img src="img/manuel.jpg">
