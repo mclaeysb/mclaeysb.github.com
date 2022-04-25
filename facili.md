@@ -78,7 +78,7 @@ I facilitate in service of companies and the public sector as well as for non-pr
 
 **Already entrusted me with their process:**
 
-> [NorWest](https://www.norwest.be/nl/), [Confluences](https://www.confluences.eu/), [MicroMarché](http://www.micromarche.com/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>

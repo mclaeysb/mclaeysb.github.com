@@ -78,7 +78,7 @@ Ik faciliteer zowel voor bedrijven en de publieke sector als voor vzw's, coopera
 
 **Vertrouwden mij hun proces al toe:**
 
-> [NorWest](https://www.norwest.be/nl/), [Confluences](https://www.confluences.eu/), [MicroMarché](http://www.micromarche.com/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>

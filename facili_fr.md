@@ -78,7 +78,7 @@ Je facilite pour des entreprises et le secteur public ainsi que pour des organis
 
 **M'ont déjà confié leur processus :**
 
-> [NorWest](https://www.norwest.be/nl/), [Confluences](https://www.confluences.eu/), [MicroMarché](http://www.micromarche.com/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>
@@ -96,7 +96,7 @@ J'ai obtenu mon diplôme d'ingénieur en physique appliquée et j'ai travaillé 
 Outre le fait que j'aime me tenir devant des groupes, en tant que <a href="/carto" class="internal">cartographe</a> indépendant je réalise également des cartes imprimées et interactives, y compris la gestion des données et la programmation.
 
 <div class="image-box">
-    <img src="img/freelance_2.png"/>
+    <img src="img/freelance_1.jpg"/>
     <img src="img/freelance_3.jpg"/>
 </div>
 
