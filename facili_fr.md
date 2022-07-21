@@ -20,78 +20,70 @@ title: Manuel Claeys Bouuaert - Facilitateur
     </div>
 </div>
 
-<h1 class="with-margin-top">Organiser le travail en équipe, c'est tout un art</h1>
+<h1 class="with-margin-top">L'intention avec laquelle les organisations utilisent leur pouvoir changera tout</h1>
 
-Si vous souhaitez améliorer la coopération au sein de votre équipe, de nombreuses questions peuvent se poser :
+Les équipes qui <mark>s'approprient leur capacité d'agir</mark> peuvent bouger des montagnes -- et un travail d'équipe avec compassion peut *nous émouvoir* encore plus.
 
-<div class="mainquote" markdown="1">
+La route pour y arriver passe par <mark>des lieux dédiés à une conversation nuancée</mark> qui ne nécessitent pas de titre de fonction pour participer mais juste un esprit ouvert et la capacité d'écouter.
 
-> "<mark>Comment impliquer les personnes dans les décisions</mark> sans passer autant de temps en réunion ?"
-
-> "Une organisation composée d'<mark>équipes autogérées</mark>, ça sonne bien, mais comment s'y prendre ?"
-
-> "Comment planifier ensemble de manière réaliste, se tenir mutuellement informés et s'ajuster <mark>de façon souple</mark> si nécessaire ?"
-
-</div>
-
-Mon métier est d'accompagner les organisations à relever ces défis -- en <a href="/facili_nl" class="language">néerlandais</a>, <a href="/facili_fr" class="language">français</a> ou <a href="/facili" class="language">anglais</a>.
+C'est là que j'interviens : en tant que facilitateur <mark>j'aide votre équipe à parler</mark> de ce que vous faites, comment vous le faites et surtout *pourquoi* vous le faites -- en tenant le cadre et en apportant les méthodologies appropriées. En <a href="/facili_nl" class="language">néerlandais</a>, <a href="/facili_fr" class="language">français</a> ou <a href="/facili" class="language">anglais</a>.
 
 <h1 class="with-margin-top">Comment je peux aider</h1>
 
 <div class="focus" markdown="1">
 
-*Une réunion délicate s'annonce et vous aimeriez qu'elle se déroule bien ? Vous souhaitez collaborativement définir les priorités pour l'année a venir lors de votre mise au vert ? Vous devez organiser un atelier de co-création et recherchez une approche innovante ?*
+## J'anime votre <mark>réunion ou atelier</mark>
 
-## J'<mark>anime</mark> votre réunion ou atelier
+Vous souhaitez définir les priorités pour l'année à venir lors de votre mise au vert ? Êtes-vous prêts à avoir une conversation sur ce sujet qui n'est pas discuté ouvertement ? Cela peut être tout un challenge d'avoir une conversation fructueuse quand on est une grande équipe. Comme facilitateur, je viens <mark>guider le déroulement</mark> de votre réunion en tant que personne neutre.
 
-Je viens <mark>guider le déroulement</mark> de votre réunion en tant que personne neutre: je peux vous aider à déliberer et à prendre des décisions de façon efficace en utilisant des processus innovantes (*Management By Consent*, *Moving Debate*, ...), ou je peux mettre en place une série d'ateliers créatifs pour brainstormer sur votre sujet en explorant toutes les perspectives possibles en groupe (*Chapeaux de Bono*, *World Café*, ...). Via ma posture, j'essaie d'offrir un cadre dans lequel la contribution de chacun est <mark>entendue et appréciée</mark>.
+Ma boite à outils contient des méthodologies pour <mark>délibérer et prendre des décisions</mark> (*Management By Consent*, *Moving Debate*, ...) ainsi que pour des moments de brainstorming et de créativité (*Chapeaux de Bono*, *World Café*, ...). Via ma posture, j'essaie d'offrir un cadre dans lequel la contribution de chacun est entendue et appréciée.
 
 </div>
 
 <div class="focus" markdown="1">
-
-*Votre équipe a abandonné une structure hiérarchique classique, mais cela mêne parfois à de l'ambiguïté et de l'incertitude ? On ne se sentent pas impliqués dans les décisions importantes -- ou juste trop souvent ? Souhaitez-vous vous appuyer sur la sagesse de chaque membre de l'équipe pour avancer ensemble dans la bonne direction ?*
 
 ## Je vous guide vers une <mark>organisation autogérée</mark>
 
-Je travaille avec vous sur des <mark>mandats clairs</mark>, un bon flux d'informations et une clarté sur ce qui est décidé où, sur base des principes de la *Sociocratie* et la *Holacratie*. En partant du <mark>défi concret</mark> que vous vivez aujourd'hui et à travers des méthodologies reliantes, je guide avec soin votre trajet vers un changement vivant et durable.
+Votre équipe a abandonné une structure hiérarchique classique, mais cela mène parfois à de l'ambiguïté et de l'incertitude ? Basé sur les principes de la *Sociocratie* et la *Holacratie*, je travaille avec vous sur des <mark>mandats clairs</mark>, un bon flux d'informations et une clarté sur ce qui est décidé où. On part à la recherche d'un équilibre pour inclure des gens dans la prise de décision sans passer tout son temps dans des réunions. 
+
+En partant des <mark>défis concrets</mark> et de l'évolution du context que vous vivez aujourd'hui, je guide avec soin votre trajet vers un changement vivant et durable.
 
 </div>
 
 <div class="focus" markdown="1">
 
-*Vous recherchez un SCRUM-master pour votre projet engagé afin d'assurer un bon fonctionnement dans votre équipe (technique) au cours des prochains mois ? Vous avez besoin d'un nouvel outil de gestion dont la mise en place aura des conséquences sur votre fonctionnement interne, et vous souhaitez que ceci soit bien préparé et suivi ?*
+## J'accompagne votre <mark>équipe technique</mark>
 
-## Je facilite votre <mark>équipe technique</mark>
+Vous recherchez un SCRUM-master afin d'assurer un bon fonctionnement dans votre équipe technique? Aidé par ma propre expérience SCRUM en tant que développeur, je regarde quels <mark>outils de la gestion de projet Agile</mark> peuvent rendre l'organisation interne plus fluide (*Backlogs* et *Sprints*, *Stand Up Meetings*, *Retrospectives*, ...) et je les mets en œuvre et les facilite jusqu'à ce que à terme votre équipe soit indépendante. 
 
-Ensemble avec votre équipe, je regarde quels outils de la *gestion de projet Agile* peuvent rendre l'organisation interne plus fluide (*Backlogs* et *Sprints*, *Stand Up Meetings*, *Retrospectives*, ...). Je les mets en œuvre et les facilite (aidé par ma <mark>propre expérience SCRUM</mark> en tant que développeur) jusqu'à ce que a terme votre équipe soit indépendante. J'apporte cette approche *Agile* ensemble avec les principes et attitudes de l'*Intelligence Collective* et de la *Démocratie Profonde*, car la technologie nous mène en avant que si son développement est <mark>collectivement porté</mark>.
+Si ces outils savent rendre votre équipe plus agile et efficace, la technologie ne nous fait que vraiment prendre un pas en avant si elle est développée d'une façon <mark>inclusive et avec sens</mark>. Pour cela, j'apporte les principes et attitudes de l'*Intelligence Collective* et de la *Démocratie Profonde* dans ce rôle.
 
 </div>
 
-Souvent, une demande se situe quelque part entre les deux et/ou la clarifier fait partie de la mission. Contactez-moi et je verrai quelle approche personnalisée je peux vous proposer.
+Sûrement votre situation ou demande ne correspond pas tout à fait à ces cases. Contactez-moi pour qu'on en parle !
 
-<h1 class="with-margin-top">Mon expérience</h1>
+<h1 class="with-margin-top">Mes spécificités</h1>
 
 En tant que facilitateur indépendant <mark>trilingue (NL/FR/EN)</mark>, j'accompagne les entreprises et les projets engagés dans ce qu'ils veulent réaliser, mais plus encore, dans leur manière de faire-ensemble --- comme objectif puissant et transformateur en soi.
 
-Je facilite pour des entreprises et le secteur public ainsi que pour des organisations à but non lucratif, des coopératives et des collectifs citoyens, allant de petites équipes à des assemblées générales fort fréquentées. En direct si possible, en visioconférence si cela est plus approprié. Mon port d'attache est <mark>Bruxelles</mark> et je suis mobile en Belgique.
+Je facilite toute sorte d'organisations, et j'ai un focus particulier sur les entreprises tech et les collectifs citoyens. Mon port d'attache est <mark>Bruxelles</mark> et je suis mobile en Belgique. De temps en temps, je facilite aussi des réunions en visioconférence.
+
+Un <mark>réseau diversifié de facilitateurs</mark> se développe à Bruxelles — et je travaille régulièrement avec certains d'entre eux. Je suis un meilleur facilitateur grâce à la culture ouverte, au regard innovant et à l'intervision constructive qui y règnent.
 
 **M'ont déjà confié leur processus :**
 
-> [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>
     <img src="img/freelance_4.jpg"/>
 </div>
 
-Un réseau diversifié de facilitateurs se développe à Bruxelles — et je travaille régulièrement avec certains d'entre eux. Je suis un meilleur facilitateur grâce à la culture ouverte, au regard innovant et à l'intervision constructive qui y règnent.
-
 <h1 class="with-margin-top">Mon parcours</h1>
 
-Dans mon travail de facilitateur, je m'appuie sur plus de 10 ans d'expérience dans divers projets, au cours desquels j'ai de plus en plus complété mon <mark>approche analytique</mark> par un rôle d'<mark>accompagnement de processus</mark> --- deux côtés qui se renforcent mutuellement.
+Dans mon travail de facilitateur, je m'appuie sur plus de 10 ans d'expérience dans divers projets, au cours desquels j'ai de plus en plus complété mon approche analytique par un rôle d'accompagnement de processus --- deux côtés qui se renforcent mutuellement.
 
-J'ai obtenu mon diplôme d'ingénieur en physique appliquée et j'ai travaillé comme doctorant, comme data scientist dans une ONG et comme developpeur de logiciel dans une coopérative de travailleurs autogéré. J'ai travaillé dans des équipes de recherche, dirigé des restructurations complexes de pipelines de données et facilité des mise au verts. J'ai également été longtemps actif dans le travail de jeunesse avec une approche inclusive et créative, et je suis impliquée en tant que facilitateur dans le mouvement citoyen pour une démocratie délibérative [Agora](https://agora.brussels). Je peux m'appuyer sur ces expériences, étant conscient du travail d'équipe qu'elles représentent, des épaules sur lesquelles je me tiens et des privilèges que j'ai reçus.
+J'ai obtenu mon diplôme d'<mark>ingénieur en physique appliquée</mark> et j'ai travaillé comme doctorant, comme data scientist dans une ONG et comme développeur de logiciel dans une coopérative de travailleurs autogéré. J'ai travaillé dans des équipes de recherche, dirigé des restructurations complexes de pipelines de données et facilité des mises au verts. J'ai également été longtemps actif dans le travail de jeunesse avec une approche inclusive et créative, et je suis impliquée en tant que <mark>facilitateur dans le mouvement citoyen</mark> pour une démocratie délibérative [Agora](https://agora.brussels). Je peux m'appuyer sur ces expériences, étant conscient du travail d'équipe qu'elles représentent, des épaules sur lesquelles je me tiens et des privilèges que j'ai reçus.
 
 Outre le fait que j'aime me tenir devant des groupes, en tant que <a href="/carto" class="internal">cartographe</a> indépendant je réalise également des cartes imprimées et interactives, y compris la gestion des données et la programmation.
 
@@ -100,18 +92,11 @@ Outre le fait que j'aime me tenir devant des groupes, en tant que <a href="/cart
     <img src="img/freelance_3.jpg"/>
 </div>
 
-<h1 class="with-margin-top">Mon tarif</h1>
-
-La rémunération peut s'organiser de manière traditionnelle : lors de notre contact nous cherchons ensemble ce qui est possible en fonction de mon tarif <mark>à l'heure ou à la journée</mark> et de vos ressources disponibles. Alternativement, si vous le souhaitez, nous pouvons également expérimenter ensemble des formes de compensation plus partagées telles qu'un *Échange Conscient*.
-
 <h1 class="with-margin-top">Contact</h1>
 
-Je suis curieux d'en apprendre sur votre question, donc contactez-moi ! Je l'analyserai soigneusement, vous proposerai une approche et nous tracerons ensemble un itinéraire approprié.
-
-Afin de pouvoir vous aider au mieux, il est utile de préciser : votre situation, la taille du groupe et éventuellement la date et le lieu.
+En parler plus ? Top !
 
 <div class="focus" markdown="1">
-## <mark>Contactez-moi</mark>
 <a href="mailto:manuel.claeys.b@gmail.com" class="email">manuel.claeys.b@gmail.com</a><br>
 <a href="tel:+32485748811" class="phone">0485 74 88 11</a>
 </div>

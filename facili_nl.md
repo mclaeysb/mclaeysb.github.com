@@ -20,78 +20,70 @@ title: Manuel Claeys Bouuaert - Facilitator
     </div>
 </div>
 
-<h1 class="with-margin-top">Teamwerk organiseren is een hele kunst</h1>
+<h1 class="with-margin-top">De intentie waarmee organisaties hun kracht gebruiken kan alles veranderen</h1>
 
-Als u de samenwerking in uw team wilt verbeteren, dan kunnen daar heel wat vragen bij komen kijken:
+Teams die <mark>eigenaarschap nemen over hun actie-mogelijkheden</mark> kunnen ver geraken -- en teamwerk met intentie kan ons vanbinnen nog meer *raken*.
 
-<div class="mainquote" markdown="1">
+De weg daar naartoe loopt via <mark>toegewijde plaatsen voor genuanceerde gesprekken</mark> die geen functietitel vereisen om deel te mogen nemen maar alleen een open geest en het vermogen om te luisteren.
 
-> "<mark>Hoe betrekken we mensen bij beslissingen</mark> zonder zoveel tijd in meetings te spenderen?"
-
-> "Een organisatie opgebouwd uit <mark>zelfsturende teams</mark>, dat klinkt mooi, maar hoe beginnen we daaraan?"
-
-> "Hoe plannen we samen op een realistische manier, houden we elkaar efficient op de hoogte en <mark>sturen we wendbaar bij</mark> wanneer nodig?"
-
-</div>
-
-Het is mijn job organisaties te begeleiden bij het opnemen van deze uitdagingen -- in het <a href="/facili_nl" class="language">Nederlands</a>, <a href="/facili_fr" class="language">Frans</a> of <a href="/facili" class="language">Engels</a>.
+Dat is waar ik van pas kom: als facilitator <mark>help ik uw team samen te praten</mark> over wat jullie doen, hoe jullie dat doen en vooral *waarom* jullie dat doen -- door het kader te bieden en de juiste methodieken aan te reiken. In het <a href="/facili_nl" class="language">Nederlands</a>, <a href="/facili_fr" class="language">Frans</a> of <a href="/facili" class="language">Engels</a>.
 
 <h1 class="with-margin-top">Hoe ik kan helpen</h1>
 
 <div class="focus" markdown="1">
 
-*Komt er een delicate vergadering aan die u graag vlot wil laten verlopen? Wilt u tijdens uw teambuilding op een gedragen manier de prioriteiten voor het komende jaar scherpstellen? U moet een co-creatie workshop organiseren en bent op zoek naar een vernieuwende aanpak?*
+## Ik faciliteer uw <mark>vergadering of workshop</mark>
 
-## Ik <mark>faciliteer</mark> uw vergadering of workshop
+Wilt u tijdens uw teambuilding de prioriteiten voor het komende jaar samenstellen? Klaar voor een gesprek over dat ene topic dat nooit openbaar wordt besproken? Het kan een hele uitdaging zijn om een vruchtbaar gesprek te hebben in grote groep. Als facilitator host ik jullie vergadering of workshop als neutrale persoon en <mark>leidt ze in goede banen</mark>.
 
-Ik host jullie vergadering als neutrale persoon en leidt ze in <mark>in goede banen</mark>: ik kan jullie helpen efficient te overleggen en beslissingen te nemen via innoviatieve methodieken (*Management By Consent*, *Moving Debate*, ...), of kan een reeks creatieve workshops verzorgen om vanuit alle mogelijke blikken te brainstormen in groep (*Chapeaux de Bono*, *World Café*, ...). Ik probeer via mijn houding een kader te bieden waarin eenieders bijdrage <mark>gehoord en gewaardeerd</mark> wordt. 
-
-</div>
-
-<div class="focus" markdown="1">
-
-*Uw team laat een klassieke hiërarchische structuur achter zich, maar dat leidt soms tot onduidelijkheid en onzekerheid? Men voelt zich niet betrokken bij belangrijke beslissingen -- of net te vaak? U wil graag de wijsheid van elk teamlid aanboren om samen de juiste richting uit te gaan?*
-
-## Ik begeleid u naar een <mark>zelfsturende organisatie</mark>
-
-Ik werk samen met jullie aan <mark>heldere mandaten</mark>, een goede informatiestroom en duidelijkheid over wat waar beslist wordt, vertrekkend vanuit de principes van de *Sociocratie* en *Holacratie*. Door te beginnen vanuit de <mark>concrete uitdaging</mark> die jullie vandaag ervaart en via verbindende methodieken begeleid ik zorgzaam jullie traject naar een levende, duurzame verandering.
+Mijn toolbox bevat onder meer methodieken voor <mark>deliberatie en beslissingneming</mark> (*Management By Consent*, *Moving Debate*, ...) maar ook voor brainstorming of creativiteit (*Chapeaux de Bono*, *World Café*, ...). Ik versterk jullie vermogen om collectief jullie doel scherp te stellen en je persoonlijke grenzen te signaleren, en beide te gebruiken om vooruit te geraken. Ik probeer via mijn houding een kader te bieden waarin eenieders bijdrage gehoord en gewaardeerd wordt. 
 
 </div>
 
 <div class="focus" markdown="1">
 
-*U zoekt een SCRUM-master voor uw geëngageerd project om gedurende de volgende maanden uw (technisch) team vlot te laten draaien? U hebt een nieuwe beheerstool nodig waarvan de implementatie ook gevolgen heeft voor uw interne werking en wilt dat dit goed voorbereid en opgevolgd wordt?*
+## Ik ondersteun uw <mark>zelfsturende team</mark>
 
-## Ik laat uw <mark>technisch team</mark> vlotter draaien
+Uw team laat een klassieke hiërarchische structuur achter zich, maar dat leidt soms tot onduidelijkheid en onzekerheid? Vanuit de principes van *Sociocratie* en *Holacratie* werk ik samen met jullie aan <mark>heldere mandaten</mark>, een goede informatiestroom en duidelijkheid over wat waar beslist wordt. We gaan op zoek naar een evenwicht waarbij mensen betrokken worden in beslissingen maar zonder teveel tijd te spenderen in meetings.
 
-Samen met uw team kijk ik welke tools uit *Agile project management* de interne organisatie vlotter kunnen laten verlopen (*Backlogs* en *Sprints*, *Stand Up Meetings*, *Retrospectives*, ...). Ik implementeer en faciliteer deze (geholpen door mijn <mark>eigen ervaring met SCRUM</mark> als software-ontwikkelaar) tot uw team hier op termijn zelfstandig in is. Ik breng deze *Agile* aanpak samen met de principes en attitudes uit *Collective Intelligence* en *Deep Democracy*, omdat technologie pas echt tot een stap voorwaards leidt als ze <mark>op een gedragen manier</mark> wordt ontwikkeld.
+Door te beginnen vanuit de <mark>concrete uitdagingen</mark> en de veranderende context die jullie vandaag ervaren begeleid ik jullie zorgzaam naar een levende, duurzame verandering.
 
 </div>
 
-Vaak bevindt een nood zich ergens tussenin en/of is het verduidelijken ervan deel van de opdracht. Contacteer me, dan bekijk ik welke aangepaste aanpak ik kan voorstellen.
+<div class="focus" markdown="1">
 
-<h1 class="with-margin-top">Mijn ervaring</h1>
+## Ik begeleid uw <mark>technisch team</mark>
+
+U zoekt een SCRUM-master om uw technisch team vlot te laten draaien? Geholpen door mijn eigen ervaring met SCRUM als software-ontwikkelaar kijk ik welke <mark>tools uit Agile project management</mark> de interne organisatie vlotter kunnen laten verlopen (*Backlogs* en *Sprints*, *Stand Up Meetings*, *Retrospectives*, ...). Ik implementeer en faciliteer deze met als doel uw team hierin zelfstandig te maken.
+
+Hoewel deze tools uw team wendbaarder en efficiënter kunnen laten werken, laat technologie ons pas echt een stap voorwaarts maken als ze op een <mark>inclusieve en doelgerichte</mark> manier wordt ontwikkeld. Daarom neem ik in deze rol ook de principes en houding uit *Collective Intelligence* en *Deep Democracy* mee.
+
+</div>
+
+Mogelijks past uw situatie of vraag niet binnen deze hokjes. Contacteer me zodat we erover kunnen praten!
+
+<h1 class="with-margin-top">Mijn eigenheden</h1>
 
 Als <mark>drietalige (NL/FR/EN)</mark> freelance facilitator ondersteun ik geëngageerde bedrijven en projecten in wat ze willen waarmaken, maar meer nog, in hoe ze daarbij kunnen samen-werken --- als krachtig en transformatief doel op zich. 
 
-Ik faciliteer zowel voor bedrijven en de publieke sector als voor vzw's, cooperatieven en burgercollectieven, gaande van kleine teams tot druk bijgewoonde algemene vergaderingen. Live als het kan, per videoconferentie als dat passender is. Mijn thuisbasis is <mark>Brussel</mark> en ik ben mobiel binnen België.
+Ik faciliteer voor allerhande organisaties, en heb een speciale focus op tech bedrijven en burgercollectieven. Mijn thuisbasis is <mark>Brussel</mark> en ik ben mobiel binnen België. Af en toe begeleid ik ook online meetings.
+
+In Brussel groeit een divers <mark>netwerk aan facilitatoren</mark> — en met sommigen werk ik regelmatig samen. Ik ben een betere facilitator dankzij de open cultuur, vernieuwende blik en constructieve intervisie die er leven.
 
 **Vertrouwden mij hun proces al toe:**
 
-> [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [Autrement-dit](https://www.autrement-dit.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>
     <img src="img/freelance_4.jpg"/>
 </div>
 
-In Brussel groeit een divers netwerk aan facilitatoren — en met sommigen werk ik regelmatig samen. Ik ben een betere facilitator dankzij de open cultuur, vernieuwende blik en constructieve intervisie die er leven.
-
 <h1 class="with-margin-top">Mijn achtergrond</h1>
 
-In mijn job als facilitator leun ik verder op meer dan 10 jaar ervaring in diverse projecten, waarbij ik steeds vaker mijn <mark>analytische insteek</mark> aanvulde met een rol als <mark>procesbegeleider</mark> --- twee kanten die elkaar versterken. 
+In mijn job als facilitator leun ik verder op meer dan 10 jaar ervaring in diverse projecten, waarbij ik steeds vaker mijn analytische insteek aanvulde met een rol als procesbegeleider --- twee kanten die elkaar versterken. 
 
-Ik studeerde af als ingenieur in de Toegepaste Natuurkunde en werkte als PhD student, als data-scientist bij een NGO en als software-ingenieur bij een zelfsturende werkerscoöperatie. Ik werkte in onderzoeksteams, leidde complexe herstructureringen van data pipelines en faciliteerde team-retraites. Ik was ook lang actief in jeugdwerk met een inclusieve en creatieve insteek en ben als facilitator betrokken bij de burgerbeweging voor deliberatieve democratie [Agora](https://agora.brussels). Terwijl ik leun op deze ervaringen, ben ik me bewust van het teamwerk dat ze vertegenwoordigen, de schouders waarop ik sta en de privileges die ik heb gekregen.
+Ik studeerde af als <mark>ingenieur in de Toegepaste Natuurkunde</mark> en werkte als PhD student, als data-scientist bij een NGO en als software-ingenieur bij een zelfsturende werkerscoöperatie. Ik werkte in onderzoeksteams, leidde complexe herstructureringen van data pipelines en faciliteerde team-retraites. Ik was ook lang actief in jeugdwerk met een inclusieve en creatieve insteek en ben betrokken als <mark>facilitator bij een burgerbeweging</mark> voor deliberatieve democratie genaamd [Agora](https://agora.brussels). Terwijl ik steun op deze ervaringen, ben ik me bewust van het teamwerk dat ze vertegenwoordigen, de schouders waarop ik sta en de privileges die ik heb gekregen.
 
 Naast het feit dat ik graag voor groepen sta, maak ik als freelance <a href="/carto" class="internal">cartograaf</a> ook geprinte en interactieve kaarten, incl. data-beheer en programmeerwerk.
 
@@ -100,18 +92,11 @@ Naast het feit dat ik graag voor groepen sta, maak ik als freelance <a href="/ca
     <img src="img/freelance_3.jpg"/>
 </div>
 
-<h1 class="with-margin-top">Mijn tarief</h1>
-
-Een vergoeding kan op de klassieke manier geregeld worden: bij ons contact kijken we samen wat mogelijk is op basis van mijn tarief <mark>per uur of dagdeel</mark> en uw beschikbare middelen. Alternatief kunnen we ook, als u dat wil, samen experimenteren met meer gedeelde vormen van vergoeding zoals een *Conscious Exchange*.
-
 <h1 class="with-margin-top">Contact</h1>
 
-Ik ben benieuwd naar uw vraag, dus neem alvast contact op! Dan analyseer ik ze toegewijd, stel u een aanpak voor en stippel samen met u het gepaste traject uit.
-
-Om u zo goed mogelijk te kunnen helpen is het handig om de volgende zaken te vermelden: uw situatie, de grootte van de groep en eventueel de datum en locatie.
+Wilt u verder praten? Graag!
 
 <div class="focus" markdown="1">
-## <mark>Contacteer me</mark>
 <a href="mailto:manuel.claeys.b@gmail.com" class="email">manuel.claeys.b@gmail.com</a><br>
 <a href="tel:+32485748811" class="phone">0485 74 88 11</a>
 </div>
