@@ -21,6 +21,10 @@ Other playlists:
     - [Latin Blues](https://open.spotify.com/playlist/1UoObyFVkL3qFNsROuZV2b?si=TnqujpxDRvmHCMZDh59Xag) 
 - Manon: 
     - [Blues and Fusion](https://open.spotify.com/playlist/2q7VtCaYxdmQmOJIEKJkUV?si=9P1ZO4KZQW6uv79y160sEA)
+- Alexi: 
+    - [Playlists](https://open.spotify.com/user/1277510007)
+- Gaëlle: 
+    - [Playlists](https://open.spotify.com/user/1137475419)
 - Lize: 
     - [Feest](https://open.spotify.com/playlist/0RIHgjz3TAEjbqwW5x2XoU) 
     - [Funky](https://open.spotify.com/playlist/0tyk0Omk6JhQwkvebkbv04) 
