@@ -72,7 +72,7 @@ A diverse <mark>network of facilitators</mark> is growing in Brussels and I coop
 
 **Already entrusted me with their process:**
 
-> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Teach for Belgium](https://teachforbelgium.be/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>
@@ -84,6 +84,8 @@ A diverse <mark>network of facilitators</mark> is growing in Brussels and I coop
 In my job as a facilitator I rely on more than 10 years of experience in various projects, where I increasingly supplemented my analytical approach with a role as process supervisor --- two sides that reinforce each other.
 
 I graduated as an <mark>engineer in Applied Physics</mark> and worked as a PhD student, as a data scientist at an NGO and as a software engineer at a self-managed workers' cooperative. I worked in research teams, led complex restructurings of data pipelines and facilitated team retreats. Also, for a long time I've been active in youth work with an inclusive and creative approach, and I am involved as a <mark>facilitator in the citizen collective</mark> for deliberative democracy called [Agora](https://agora.brussels). As I lean on these experiences, I'm mindful of the teamwork they represent, the shoulders I'm standing on and privilege I've received.
+
+My practical experience is complemented by training in facilitation techniques and posture through a.o. Université du Nous (*Atelier du Nous*) and Collectiv-a (*Posture de Facilitation*).
 
 Besides the fact that I like to stand in front of groups I also make printed and interactive maps as a freelance <a href="/carto" class="internal">cartographer</a>, including data management and programming.
 

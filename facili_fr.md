@@ -72,7 +72,7 @@ Un <mark>réseau diversifié de facilitateurs</mark> se développe à Bruxelles 
 
 **M'ont déjà confié leur processus :**
 
-> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Teach for Belgium](https://teachforbelgium.be/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>
@@ -84,6 +84,8 @@ Un <mark>réseau diversifié de facilitateurs</mark> se développe à Bruxelles 
 Dans mon travail de facilitateur, je m'appuie sur plus de 10 ans d'expérience dans divers projets, au cours desquels j'ai de plus en plus complété mon approche analytique par un rôle d'accompagnement de processus --- deux côtés qui se renforcent mutuellement.
 
 J'ai obtenu mon diplôme d'<mark>ingénieur en physique appliquée</mark> et j'ai travaillé comme doctorant, comme data scientist dans une ONG et comme développeur de logiciel dans une coopérative de travailleurs autogéré. J'ai travaillé dans des équipes de recherche, dirigé des restructurations complexes de pipelines de données et facilité des mises au verts. J'ai également été longtemps actif dans le travail de jeunesse avec une approche inclusive et créative, et je suis impliquée en tant que <mark>facilitateur dans le mouvement citoyen</mark> pour une démocratie délibérative [Agora](https://agora.brussels). Je peux m'appuyer sur ces expériences, étant conscient du travail d'équipe qu'elles représentent, des épaules sur lesquelles je me tiens et des privilèges que j'ai reçus.
+
+Mon expérience pratique est complétée par des formation de techniques et de postures de facilitation à travers e.a. Université du Nous (*Atelier du Nous*) et Collectiv-a (*Posture de Facilitation*).
 
 Outre le fait que j'aime me tenir devant des groupes, en tant que <a href="/carto" class="internal">cartographe</a> indépendant je réalise également des cartes imprimées et interactives, y compris la gestion des données et la programmation.
 

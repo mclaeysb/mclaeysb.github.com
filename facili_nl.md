@@ -72,7 +72,7 @@ In Brussel groeit een divers <mark>netwerk aan facilitatoren</mark> — en met s
 
 **Vertrouwden mij hun proces al toe:**
 
-> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Teach for Belgium](https://teachforbelgium.be/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>
@@ -84,6 +84,8 @@ In Brussel groeit een divers <mark>netwerk aan facilitatoren</mark> — en met s
 In mijn job als facilitator leun ik verder op meer dan 10 jaar ervaring in diverse projecten, waarbij ik steeds vaker mijn analytische insteek aanvulde met een rol als procesbegeleider --- twee kanten die elkaar versterken. 
 
 Ik studeerde af als <mark>ingenieur in de Toegepaste Natuurkunde</mark> en werkte als PhD student, als data-scientist bij een NGO en als software-ingenieur bij een zelfsturende werkerscoöperatie. Ik werkte in onderzoeksteams, leidde complexe herstructureringen van data pipelines en faciliteerde team-retraites. Ik was ook lang actief in jeugdwerk met een inclusieve en creatieve insteek en ben betrokken als <mark>facilitator bij een burgerbeweging</mark> voor deliberatieve democratie genaamd [Agora](https://agora.brussels). Terwijl ik steun op deze ervaringen, ben ik me bewust van het teamwerk dat ze vertegenwoordigen, de schouders waarop ik sta en de privileges die ik heb gekregen.
+
+Mijn praktijkervaring wordt aangevuld door trainingen in facilitatie-technieken en -houding via o.a. Université du Nous (*Atelier du Nous*) en Collectiv-a (*Posture de Facilitation*).
 
 Naast het feit dat ik graag voor groepen sta, maak ik als freelance <a href="/carto" class="internal">cartograaf</a> ook geprinte en interactieve kaarten, incl. data-beheer en programmeerwerk.
 
