@@ -64,21 +64,16 @@ I'm happy to share more about my previous projects upon request.
 
 Next to my cartography work, I'm a freelance <a href="/facili" class="internal">facilitator</a>: I accompany organizations towards a more cooperative working-together.
 
-<h1 class="with-margin-top">My rate</h1>
-
-Compensation can be arranged in the traditional way: as part of our first interaction we search for an agreement based on my rate (<mark>per hour or day</mark>) and your available resources. Alternatively, if this interests you, we can also jointly experiment with more shared forms of compensation such as a *Conscious Exchange*.
-
 <h1 class="with-margin-top">Contact</h1>
 
-I'm curious to hear how I can help you. Feel free to contact me and tell me about your project.
+Want to talk more? Great!
 
 <div class="focus" markdown="1">
-## <mark>Contact me</mark>
 <a href="mailto:manuel.claeys.b@gmail.com" class="email">manuel.claeys.b@gmail.com</a><br>
 <a href="tel:+32485748811" class="phone">0485 74 88 11</a>
 </div>
 
-Manuel Claeys Bouuaert --- <span class="small-caps" markdown="1">vat: be0747868317</span> --- <span class="small-caps" markdown="1">iban: be31001904377455</span>
+Manuel Claeys Bouuaert --- `VAT: BE0747868317` --- `IBAN: BE31001904377455`
 
 <div class="image-box">
     <img src="img/ferrargis.png"/>
