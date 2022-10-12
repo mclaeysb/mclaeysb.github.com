@@ -22,7 +22,7 @@ title: Manuel Claeys Bouuaert - Facilitateur
 
 <h1 class="with-margin-top">L'intention avec laquelle les organisations utilisent leur pouvoir changera tout</h1>
 
-Les équipes qui <mark>s'approprient leur capacité d'agir</mark> peuvent bouger des montagnes -- et un travail d'équipe avec compassion peut *nous émouvoir* encore plus.
+Les équipes qui <mark>s'approprient leur capacité d'agir</mark> peuvent mouvoir des montagnes -- et un travail d'équipe avec compassion peut *nous émouvoir* encore plus.
 
 La route pour y arriver passe par <mark>des lieux dédiés à une conversation nuancée</mark> qui ne nécessitent pas de titre de fonction pour participer mais juste un esprit ouvert et la capacité d'écouter.
 

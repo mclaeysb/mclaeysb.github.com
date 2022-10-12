@@ -20,7 +20,7 @@ title: Manuel Claeys Bouuaert - Facilitator
     </div>
 </div>
 
-<h1 class="with-margin-top">De intentie waarmee organisaties hun kracht gebruiken kan alles veranderen</h1>
+<h1 class="with-margin-top">De intentie waarmee organisaties hun drijfkracht hanteren kan alles veranderen</h1>
 
 Teams die <mark>eigenaarschap nemen over hun actie-mogelijkheden</mark> kunnen ver geraken -- en teamwerk met intentie kan ons vanbinnen nog meer *raken*.
 
