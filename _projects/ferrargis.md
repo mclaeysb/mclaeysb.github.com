@@ -192,6 +192,12 @@ Notice how many hedges there were! Also, you can see how the city's harbour exte
 
 Again, the old town hasn't changed much. Also notice the fortifications of Damme in the North-East of the map.
 
+<div id="compare_ferrargis_gent_a1_portrait" class="compare"></div>
+
+<img src="/img/compare_ferrargis_gent_a1_portrait_ferrargis_large.png"/>
+
+Closing off where we started with this map of Ghent and its surroundings. I'm quite proud to report that an A1 print of this map won [first price](https://www.nobohan.be/2022/11/18/foss4g-be-2022/) at the 2022 FOSS4G-Be/SOTM conference and it's traditional map competition -- which featured submissions as creative, quirky and diverse as the collection of geeky map enthousiasts participating at the conference.
+
 <!-- before-effect-slider script -->
 <script type="text/javascript">
 
