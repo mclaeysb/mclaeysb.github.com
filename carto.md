@@ -42,7 +42,7 @@ I carefully clean your data and include a <mark>structured notebook report</mark
 
 *Need to efficiently compute how many households in your huge dataset lie within a certain distance of forests (or polluting factories)? Does your project required you to draw optimal shortest routes with multiple stops?*
 
-## I scout <mark>cutting-edge algorithms</mark> for your, and put them into action.
+## I scout <mark>cutting-edge algorithms</mark> for you, and put them into action.
 
 There are incredible -- but sometimes scary -- <mark>geospatial algorithms</mark> to be found in the realms of computational geometry, geodesy and routing. They enable us to answer many (but not all) complicated questions on your data. My background in -- and love for -- Maths, geometry and linear algebra give me the necessary tools to find out which ones can be used for your tasks. I implement them for your and deliver the resulting output, as well as the clean and well documented code. The engineer in me also looks forward to your <mark>remote sensing</mark> and hyperspectral image processing challenges.
 
