@@ -22,7 +22,7 @@ title: Manuel Claeys Bouuaert - Facilitateur
 
 <h1 class="with-margin-top">L'intention avec laquelle les organisations utilisent leur pouvoir changera tout</h1>
 
-Les équipes qui <mark>s'approprient leur capacité d'agir</mark> peuvent mouvoir des montagnes -- et un travail d'équipe avec compassion peut *nous émouvoir* encore plus.
+Les équipes qui <mark>s'approprient de leur capacité d'agir</mark> peuvent mouvoir des montagnes -- et un travail d'équipe avec compassion peut *nous émouvoir* encore plus.
 
 La route pour y arriver passe par <mark>des lieux dédiés à une conversation nuancée</mark> qui ne nécessitent pas de titre de fonction pour participer mais juste un esprit ouvert et la capacité d'écouter.
 
@@ -72,7 +72,7 @@ Un <mark>réseau diversifié de facilitateurs</mark> se développe à Bruxelles 
 
 **M'ont déjà confié leur processus :**
 
-> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Teach for Belgium](https://teachforbelgium.be/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Infrabel.be](https://infrabel.be), [Shayp](https://shayp.com/), [Equal Partners](https://equal-partners.eu/), [Teach for Belgium](https://teachforbelgium.be/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>

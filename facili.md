@@ -72,7 +72,7 @@ A diverse <mark>network of facilitators</mark> is growing in Brussels and I coop
 
 **Already entrusted me with their process:**
 
-> [Shayp](https://shayp.com/), [Coop IT Easy](https://coopiteasy.be/), [Equal Partners](https://equal-partners.eu/), [Teach for Belgium](https://teachforbelgium.be/), [Confluences](https://www.confluences.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Infrabel.be](https://infrabel.be), [Shayp](https://shayp.com/), [Equal Partners](https://equal-partners.eu/), [Teach for Belgium](https://teachforbelgium.be/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>

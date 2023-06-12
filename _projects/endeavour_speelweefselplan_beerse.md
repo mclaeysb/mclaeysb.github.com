@@ -1,0 +1,17 @@
+---
+layout: project
+categories: maps
+date_start: 2022-04-01
+date: 2023-06-01
+title: "Speelweefselplan Beerse"
+tagline: An integral plan for the 'playing-fabric' of a Belgian commune.
+organisation: Endeavour
+link: https://view.genial.ly/637e5f6b8341150012d02760
+---
+I was contacted by the urban planning cooperative [Endeavour](https://endeavours.eu/) to support them in a project that would have a big cartography component. They were on a mission to develop a so called 'speelweefselplan' for the commune of Beerse. A 'speelweefselplan' is an integral *mapping* of all things related to kids' (and youngsters') playing opportunities in a given area, followed by a *vision* that sets out the main lines of how these things could evolve in the future and a *planning* that sets out how to make this happen. It covers everything from infrastructure (playing fields, sports areas, playing opportunities in nature, ...) to social structures (youth movements, community projects, art academies, ....) and studies their spatial connections, asking 'can kids move about their neighbourhood easily and safely?'.
+
+Our work started with a socio-demographic analysis of the commune, for which the statistic and mapping tools provided by the Flemish government proved to be very useful and generally well-built: [Gemeente-Stadmonitor](https://gemeente-stadsmonitor.vlaanderen.be/), [GeoPunt](https://www.geopunt.be/), [Open Data Vlaanderen](https://opendata.vlaanderen.be/) and [Metadata Vlaanderen](https://metadata.vlaanderen.be/). Also, this [WFS and WMS list](https://wfs.michelstuyts.be/) compiled by a member of the FOSS4G community was a really useful find. After this analysis we built an inventory of everything the commune had to offer, sourcing from our visits, the commune's offices and OpenStreetMap. I used live links to data where possible and centralised the most relevant data (e.g. playgrounds) in a local database. From there many maps could be created that served in the explorative and planning fases of this project. Some made it all the way through to the final report. I was lucky enough to have a designer on the team with whom I collaborated to make the report and maps display their content in a consistent (and beautiful) way.
+
+Next to the static maps my main deliverable was an interactive map. It was ment for citizens to discover the existing playing infrastructure and learn about the upcoming plans. Since the budget did not allow for a full interactive map (built using e.g. Leaflet and some custom code for the menus) and the project required something more then a fully-tuned uMap, I decided to take a different approach this time: we used a tool called [Genial.ly](https://genial.ly/) which is kind of a 'powerpoint-website-builder': it allows you to make pages with interactive elements which can be animated (e.g. moving in and out) or which can link through to other pages. To make it feel like an interactive map I used static maps as background images and added clickable custom icons for playgrounds and other important places. A main menu was really easy to build using this tool. The result is, of-course, not a 'slippy map', but given the small spatial extent of the commune and the relatively low number of things that needed to be user-clickable this setup turned out to work very well. 
+
+The result can be visited online (see link above) and the (multi-year) plan has been adopted by the commune. Curious to go back to Beerse in a couple of years and see what has evolved since.
