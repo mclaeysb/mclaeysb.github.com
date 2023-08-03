@@ -20,31 +20,31 @@ title: Manuel Claeys Bouuaert - Cartographer
 
 <div class="focus" markdown="1">
 
-*Need an interactive map so your users can explore your data? Want to explain your research in a journal or newspaper using a high-quality map?*
-
 ## I make <mark>interactive and printed maps</mark>.
 
-I use <mark>state-of-the-art</mark> tools to visualise your data as a static, printable map (using *QGIS* as my main workhorse) or as an interactive (story-)map (using *Mapbox/MapLibre GL JS*, *Leaflet*, *uMap*, ...). Layer by layer, I carefully build up your map complementing your data with Open Data and/or satellite layers and explanatory graphs. With an <mark>eye for detail</mark> I take care of advanced aspects like *label placement*, *relief shading* and an *accessible color system*, all while respecting your visual identity.
+You have a lot of data and want to show it on a map? I use <mark>state-of-the-art</mark> tools to visualise your data as a static (printable) map or interactive (web-based) map. Together, we find the right balance between telling a story and making your data explorable.
+
+Layer by layer, I carefully build up your map, complementing your data with Open Data, satellite imagery and graphs. With an <mark>eye for detail</mark> I take care of advanced aspects like label placement, relief shading and an accessible color system, all while respecting your visual identity.
 
 </div>
 
 <div class="focus" markdown="1">
-
-*Overloaded with messy datasets or Excel-sheets? Need to compare or combine databases and have no idea on how to start?*
 
 ## I help you <mark>make sense of your data</mark>.
 
-I carefully clean your data and include a <mark>structured notebook report</mark> on my analysis of your (spatial) research questions (using tools like *R*, *Jupyter* and *D3.js*). I can help you orient in the world of statistical tests, predictive models and Machine Learning and apply the most fitting approach. In the longer run, I can help you set up a <mark>data processing pipeline</mark>, enabling things like automated reports, connected databases and APIs. 
+You need to match data in a messy Excel-sheet with some old shapefiles and have no idea (or appetite) getting started? Great, I love to structure information! I carefully clean your datasets, combine them in the right way and make <mark>notebook reports</mark> on your (spatial) research questions. I can also help you orient in the world of statistical tests, predictive models and Machine Learning and apply the most fitting approach. 
+
+In the longer run, I can help you set up a <mark>data processing pipeline</mark>, enabling things like automated reports, connected databases and APIs. 
 
 </div>
 
 <div class="focus" markdown="1">
 
-*Need to efficiently compute how many households in your huge dataset lie within a certain distance of forests (or polluting factories)? Does your project required you to draw optimal shortest routes with multiple stops?*
+## I make <mark>geo-spatial algorithms</mark> work for you.
 
-## I scout <mark>cutting-edge algorithms</mark> for you, and put them into action.
+You're faced with questions like "how many households in this dataset lie within a certain distance of polluting factories" or "what is the shortest route between all these points"? Some incredible geospatial algorithms have been developed for such questions in the fields of <mark>computational geometry, geodesy and routing</mark> - but sometimes they can be quite scary. I can help you identify the useful ones for your project, implement them and deliver the resulting output, code and documentation. 
 
-There are incredible -- but sometimes scary -- <mark>geospatial algorithms</mark> to be found in the realms of computational geometry, geodesy and routing. They enable us to answer many (but not all) complicated questions on your data. My background in -- and love for -- Maths, geometry and linear algebra give me the necessary tools to find out which ones can be used for your tasks. I implement them for your and deliver the resulting output, as well as the clean and well documented code. The engineer in me also looks forward to your <mark>remote sensing</mark> and hyperspectral image processing challenges.
+The engineer in me also looks forward to your <mark>remote sensing</mark> and hyperspectral image processing challenges.
 
 </div>
 
@@ -54,7 +54,7 @@ I was born in 1989 and live in ~~Ghent~~ Brussels. After my studies as an engine
 
 I'm on team *Open Knowledge*; contributing to OpenStreetMap, using <mark>Open Source tools</mark> and sharing my own code, learnings and creations as much as possible. Let's create *knowledge for the many, not the few*.
 
-Tools I've used include QGIS/GDAL -- Mapbox GL JS -- JavaScript/Node -- SQL/Postgres -- R/dplyr -- Python/Pandas/Jupyter -- CLI -- Git -- MatLab -- and even Ruby/Jekyll to make this very website (10/10 would recommend!).
+Tools I've used include QGIS/GDAL -- Mapbox/MapLibre GL JS -- Leaflet -- JavaScript/Node -- SQL/Postgres -- R/dplyr -- Python/Pandas/Jupyter -- CLI -- Git -- MatLab -- and even Ruby/Jekyll to make this very website (10/10 would recommend!).
 
 **I've cooperated with:**
 
