@@ -16,6 +16,8 @@ title: Manuel Claeys Bouuaert - Cartographer
     </div>
 </div>
 
+As a kid I've always loved flipping through atlasses and reading maps - and the kid in me still loves this so much! It thought me to think abstractly, understand the landscape and think about spatial relations. I'm happy I can put this knowledge - and love - to use in my work today.
+
 # How I can help you
 
 <div class="focus" markdown="1">
@@ -58,7 +60,7 @@ Tools I've used include QGIS/GDAL -- Mapbox/MapLibre GL JS -- Leaflet -- JavaScr
 
 **I've cooperated with:**
 
-> [UGent department of Geography](http://geoweb.ugent.be/), [IPIS - International Peace Information Service](https://ipisresearch.be/), [Endeavour](https://endeavours.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
+> [Allmaps](https://allmaps.org/), [UGent department of Geography](http://geoweb.ugent.be/), [IPIS - International Peace Information Service](https://ipisresearch.be/), [Endeavour](https://endeavours.eu/), [Heroes For Zero - 1030/0](https://heroesforzero.be/), [ERU - Etudes et Recherches Urbaines](https://eru-urbanisme.be/), ...
 
 I'm happy to share more about my previous projects upon request.
 
