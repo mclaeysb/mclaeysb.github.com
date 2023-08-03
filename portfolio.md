@@ -2,7 +2,7 @@
 layout: default
 title: Manuel Claeys Bouuaert - Portfolio
 ---
-<div class="image-box">
+<div class="image-box" style="margin-top: 60px; margin-bottom: 60px">
     <img src="img/manuel.jpg">
     <div style="margin:auto 10px">
         <h2>Hi, I'm Manuel.</h2>
@@ -25,6 +25,10 @@ If you're interested in my work, feel free to explore the following pages I crea
 Earlier I was a volunteer at the youthwork organisations [Albezon](https://www.albezon.be/) and [Koning Kevin](https://koningkevin.be/). More recently I've been involved as a facilitator at the Brussels' citizen initiative for deliberative democracy [Agora](https://agora.brussels).
 
 In 2012 I graduated as an engineer in Applied Physics. As a PhD student at the UGent department of Geography I studied deformations in historical maps and predictive models of pedestrian crowds. I was a GIS-officer and data-scientist at the NGO [IPIS](https://ipisresearch.be) making maps and helping researchers understand their data. At the workers cooperative [Coop IT Easy](https://coopiteasy.be) I made software for organisations in the social economy, as part of an awesome self-facilitating team.
+
+I'm a human being, too. Proud that I can contrinute with some things, also struggling with many others. Just trying my best every day, to be kind, be helpful and wonder about this *existence* thing.
+
+<br>
 
 Don't hesitate to reach out!
 

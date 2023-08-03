@@ -2,7 +2,7 @@
 layout: public
 title: Manuel Claeys Bouuaert - Facilitator and Cartographer
 ---
-<div class="image-box">
+<div class="image-box" style="margin-top: 60px; margin-bottom: 60px">
     <img src="img/manuel.jpg">
     <div style="margin:auto 10px">
         <h2>Hi, I'm Manuel.</h2>

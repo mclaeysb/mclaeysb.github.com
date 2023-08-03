@@ -141,7 +141,7 @@ ins {
   display: inline;
   background: linear-gradient(180deg, #FFFFFF00 60%, var(--highlight2-text-color) 40%);
 }
-mark {
+p mark {
   border-radius: 0.6em 0.4em;
   padding: .15rem .4rem;
   background: linear-gradient(-100deg, hsla(var(--highlight2-text-color-hsl),.3), hsla(var(--highlight2-text-color-hsl),.5) 60%, hsla(var(--highlight2-text-color-hsl),.5) 95%, hsla(var(--highlight2-text-color-hsl),.1));
@@ -172,14 +172,14 @@ blockquote {
 }
 
 .focus {
-  background-color: var(--focus-background-color);
-  margin: 40px 20px;
+/*  background-color: var(--focus-background-color);*/
+  margin: 40px 0px; /* 40px 20px;*/
   padding: 12px 30px;
-  /*border-style: solid;*/
+  border-style: solid;
   border-color: var(--light-text-color);
   border-width: 2px;
   border-radius: 4px;
-  box-shadow: 0px 0px 14px #00000040;
+/*  box-shadow: 0px 0px 14px #00000040;*/
 }
 
 .small-caps { font-variant: small-caps }
@@ -223,8 +223,6 @@ img.main {
 }
 
 .image-box {
-	margin-top: 60px;
-  margin-bottom: 60px;
   display: grid;
   grid-template-columns: repeat(2,1fr);
   grid-gap: 30px;
@@ -264,7 +262,7 @@ nav a.active { color: var(--main-text-color); }
   }
 
   .focus{
-    margin: 40px 5px;
+    margin: 40px 0px; /*40px 5px*/
     padding: 6px 26px;
   }
 }

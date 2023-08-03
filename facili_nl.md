@@ -6,7 +6,7 @@ title: Manuel Claeys Bouuaert - Facilitator
     <a href="/facili" class="language">EN</a>
     <a href="/facili_fr" class="language">FR</a>
 </div>
-<div class="image-box">
+<div class="image-box" style="margin-top: 60px; margin-bottom: 60px">
     <img src="img/manuel.jpg">
     <div style="margin:auto 10px">
         <h2>Hallo, ik ben Manuel</h2>
