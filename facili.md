@@ -36,7 +36,7 @@ That’s where I come in: as a facilitator <mark>I’m here to help your team ta
 
 Want to set the priorities for the coming year during your team retreat? Ready to have a talk about that one issue that's never being openly discussed? It can be quite a challenge to have a fruitful conversation when you're a big team. As a facilitator I can host your meeting or workshop as a neutral person to <mark>make it run smoothly</mark>. 
 
-My toolbox includes methodologies for <mark>deliberation and decision making</mark> (*Management By Consent*, *Moving Debate*, ...) as well as ideation and creativity (*Hats of Bono*, *World Café*, ...). I reinforce your capacity to collectively express your purpose and personal signal your boundaries, and use both to forward. Through my posture, I hold a space in which everyone's contribution is heard and appreciated.
+My toolbox includes methodologies for <mark>deliberation and decision making</mark> (*Management By Consent*, *Moving Debate*, ...) as well as ideation and creativity (*Hats of Bono*, *World Café*, ...). I reinforce your capacity to collectively express your purpose and personaly signal your boundaries, and use both to forward. Through my posture, I hold a space in which everyone's contribution is heard and appreciated.
 
 </div>
 
