@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Manuel Claeys Bouuaert - Portfolio
+title: Manuel Claeys Bouuaert -- Portfolio
 ---
 <div class="image-box" style="margin-top: 60px; margin-bottom: 60px">
     <img src="img/manuel.jpg">
@@ -26,7 +26,7 @@ Earlier I was a volunteer at the youthwork organisations [Albezon](https://www.a
 
 In 2012 I graduated as an engineer in Applied Physics. As a PhD student at the UGent department of Geography I studied deformations in historical maps and predictive models of pedestrian crowds. I was a GIS-officer and data-scientist at the NGO [IPIS](https://ipisresearch.be) making maps and helping researchers understand their data. At the workers cooperative [Coop IT Easy](https://coopiteasy.be) I made software for organisations in the social economy, as part of an awesome self-facilitating team.
 
-I'm a human being, too. Proud that I can contrinute with some things, also struggling with many others. Just trying my best every day, to be kind, be helpful and wonder about this *existence* thing.
+I'm a human being, too. Proud that I can contribute with some things, also struggling with many others. Just trying my best every day, to be kind, be helpful. And while this website is about me (and what I do for work), it's really about us, about nurturing the commons, about affirming the alternatives that already exist, about recognising who we are -- *that* we are, here and alive in this 'existence' thing.
 
 <br>
 

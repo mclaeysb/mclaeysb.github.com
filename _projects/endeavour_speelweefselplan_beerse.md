@@ -1,6 +1,6 @@
 ---
 layout: project
-categories: maps
+categories: [maps, urban]
 date_start: 2022-04-01
 date: 2023-06-01
 title: "Speelweefselplan Beerse"

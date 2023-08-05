@@ -1,6 +1,6 @@
 ---
 layout: public
-title: Manuel Claeys Bouuaert - Facilitator
+title: Manuel Claeys Bouuaert -- Facilitator
 ---
 <div class="language-box">
     <a href="/facili_nl" class="language">NL</a>
@@ -20,9 +20,7 @@ title: Manuel Claeys Bouuaert - Facilitator
     </div>
 </div>
 
-<h1 class="with-margin-top">A choice for organising with intention</h1>
-
-Teams that <mark>take ownership of their agency</mark> can move mountains -- and team-work with compassion can *move us* even more.
+Teams that <mark>organise with intention</mark> can move mountains -- and team-work with compassion can *move us* even more.
 
 The road to get there goes through <mark>dedicated places for nuanced conversation</mark> that don’t require a function title to participate but just an open mind and the ability to listen.
 
@@ -60,7 +58,7 @@ While these tools can make your team more agile and efficient, technology only r
 
 </div>
 
-I’m sure your situation or request doesn't quite fit these boxes. Contact me so we can talk about it!
+I’m sure your situation or request doesn't quite fit these boxes. Let's talk!
 
 <h1 class="with-margin-top">My work</h1>
 
@@ -68,9 +66,9 @@ As a <mark>trilingual (NL/FR/EN)</mark> freelance facilitator I support purposef
 
 I facilitate all kinds of organisations, and have a special focus on teams working on technical subjects and on citizen collectives. My home base is <mark>Brussels</mark> and I am mobile within Belgium. I also do remote facilitation work from time to time.
 
-A diverse <mark>network of facilitators</mark> is growing in Brussels and I cooperate with some of them on a regular basis. I am a better facilitator thanks to the open culture, innovative viewpoints and constructive intervision that exist in this group.
+A diverse <mark>network of facilitators</mark> is growing in Brussels and I cooperate with some of them on a regular basis. I am a better facilitator thanks to the open culture, innovative viewpoints and constructive intervision that exist in this field.
 
-Investing in a better working-together is a human endeavour. It can be eye-opening, renewing, fun, frustating and messy. It can create belonging and connection. It goes step by step. It takes time. And I think it's worth it.
+Investing in a better working-together, and taking ownership of our agency, is a human endeavour. It can be eye-opening, renewing, fun, frustating and messy. It can create belonging and connection. It goes step by step. It takes time. And I think it's worth it.
 
 <div class="image-box">
     <img src="img/freelance_2.jpg"/>
@@ -79,13 +77,21 @@ Investing in a better working-together is a human endeavour. It can be eye-openi
 
 <h1 class="with-margin-top">Some examples</h1>
 
-Brussels museum Art et Marges organised a <mark>network day</mark> with 100 animators of artistic workshops from affiliated organisations. They aimed to create a moment of connection, exchange and co-creation on future joint projects. I proposed methodologies for moments in small teams, one-on-one as well as all together, helped with practical preparations and guided the participants through their day.
+Organisations I've worked with include [Infrabel](https://infrabel.be), [Shayp](https://shayp.com/), [Equal Partners](https://equal-partners.eu/), [Teach for Belgium](https://teachforbelgium.be/), [CIRB -- paradigm.brussels](https://paradigm.brussels), [Gemeente Schaarbeek](https://www.1030.be/nl/agenda/muzik1030-network), [Art et Marges](https://www.artetmarges.be/), ...
 
-The collective Teach For Belgium had been experimenting with self-managing teams for a while, and wanted to rethink how to align those teams through-out the work-year. I designed a <mark>one-day team retreat</mark> around this question with times to explore possibilities, weigh options, make a choice and make it concrete. They implemented (and kept improving) the resulting approach.
+Here are some examples of moments I facilitated:
 
-Infrabel, who manages the Belgian rail infrastructure, wanted to foster more innovation and cooperation across its departments through a <mark>sustainable innovation trajectory</mark> for young employees. I joined a team of facilitators through the collective Impact Valley, and animated the '4D' innovation methodology for a small, young, cross-functional team composed of technicians, ITers and strategic planners. I guided them from values to brainstorm over value proposition to testable prototype.
+> Network day
 
-Organisations I've worked with include [Infrabel](https://infrabel.be), [Shayp](https://shayp.com/), [Equal Partners](https://equal-partners.eu/), [Teach for Belgium](https://teachforbelgium.be/), [CIRB - paradigm.brussels](https://paradigm.brussels), [Gemeente Schaarbeek](https://www.1030.be/nl/agenda/muzik1030-network), [Art et Marges](https://www.artetmarges.be/), ...
+Brussels museum Art et Marges organised a network day with 100 animators of artistic workshops from affiliated organisations. They aimed to create a moment of connection, exchange and co-creation on future joint projects. I proposed methodologies for moments in small teams, one-on-one as well as all together, helped with practical preparations and guided the participants through their day.
+
+> One-day team retreat
+
+Teach For Belgium had been experimenting with self-managing teams for a while, and wanted to rethink how to align those teams through-out the work-year. I designed a one-day team retreat around this question with times to explore possibilities, weigh options, make a choice and make it concrete. They implemented (and kept improving) the resulting approach.
+
+> Sustainable innovation trajectory
+
+Infrabel, who manages the Belgian rail infrastructure, wanted to foster more innovation and cooperation across its departments through a sustainable innovation trajectory for young employees. I joined a team of facilitators through the collective Impact Valley, and animated the '4D' innovation methodology for a small, young, cross-functional team composed of technicians, ITers and strategic planners. I guided them from values to brainstorm over value proposition to testable prototype.
 
 <div class="image-box">
     <img src="img/freelance_1.jpg"/>
@@ -100,7 +106,7 @@ I graduated as an <mark>engineer in Applied Physics</mark> and worked as a PhD s
 
 My practical experience is complemented by training in facilitation techniques and posture through a.o. Université du Nous (*Atelier du Nous*) and Collectiv-a (*Posture de Facilitation*).
 
-I'm a human being, too. Proud that I can contrinute with some things, also struggling with many others. Just trying my best every day, to be kind, be helpful and wonder about this *existence* thing.
+I'm a human being, too. Proud that I can contribute with some things, also struggling with many others. Just trying my best every day, to be kind, be helpful. And while this website is about me (and what I do for work), it's really about us, about nurturing the commons, about affirming the alternatives that already exist, about recognising who we are -- *that* we are, here and alive in this 'existence' thing.
 
 Besides the fact that I like to stand in front of groups I also make printed and interactive maps as a freelance <a href="/carto" class="internal">cartographer</a>, including data management and programming.
 
