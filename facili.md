@@ -87,7 +87,7 @@ Brussels museum Art et Marges organised a network day with 100 animators of arti
 
 > One-day team retreat
 
-Teach For Belgium had been experimenting with self-managing teams for a while, and wanted to rethink how to align those teams through-out the work-year. I designed a one-day team retreat around this question with times to explore possibilities, weigh options, make a choice and make it concrete. They implemented (and kept improving) the resulting approach.
+Teach For Belgium had been experimenting with self-managing teams for a while, and wanted to rethink how to align those teams through-out the work-year. I designed a one-day team retreat around this question with times to explore possibilities, weigh options, make a choice and make it concrete.
 
 > Sustainable innovation trajectory
 
