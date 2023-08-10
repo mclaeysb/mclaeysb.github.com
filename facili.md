@@ -123,4 +123,3 @@ Manuel Claeys Bouuaert
 
 `VAT: BE0747868317` --- `IBAN: BE31001904377455`
 </div>
-
