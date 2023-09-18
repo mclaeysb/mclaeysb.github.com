@@ -64,7 +64,7 @@ a.home:before {
 }
 a.internal { color: var(--link-text-color); }
 a.internal:after { 
-  content: " →"; 
+  content: " →"; 
   font-style: normal;
   font-family: var(--sans-serif-font); 
 }
