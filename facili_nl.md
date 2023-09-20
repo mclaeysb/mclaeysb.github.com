@@ -42,7 +42,7 @@ Mijn toolbox bevat onder meer methodieken voor <mark>deliberatie en beslissingne
 
 ## Ik ondersteun uw zelfsturende team
 
-Uw team laat een klassieke hiërarchische structuur achter zich, maar dat leidt soms tot onduidelijkheid en onzekerheid? Vanuit de principes van *Sociocratie* en *Holacratie* werk ik samen met jullie aan <mark>heldere mandaten</mark>, een goede informatiestroom en duidelijkheid over wat waar beslist wordt. We gaan op zoek naar een evenwicht waarbij mensen betrokken worden in beslissingen maar zonder teveel tijd te spenderen in meetings.
+Uw team laat een klassieke hiërarchische structuur achter zich, maar dat leidt soms tot onduidelijkheid en onzekerheid? Vanuit de principes van *Sociocratie* en *Holacratie* werk ik samen met jullie aan <mark>heldere mandaten en missie</mark>, een goede informatiestroom en duidelijkheid over wat waar beslist wordt. We gaan op zoek naar een evenwicht waarbij mensen betrokken worden in beslissingen maar zonder teveel tijd te spenderen in meetings.
 
 Door te beginnen vanuit de <mark>concrete uitdagingen</mark> en de veranderende context die jullie vandaag ervaren begeleid ik jullie zorgzaam naar een levende, duurzame verandering.
 

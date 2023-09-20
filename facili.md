@@ -42,7 +42,7 @@ My toolbox includes methodologies for <mark>deliberation and decision making</ma
 
 ## I help mature self-managing teams
 
-Your team is leaving behind a classic hierarchical structure, but sometimes this leads to ambiguity and uncertainty? Based on the principles of *Sociocracy* and *Holacracy* I work with you on <mark>clear mandates</mark>, a good flow of information and clarity about what is decided where. We look for a balance that includes people in decisions without spending too much time in meetings.
+Your team is leaving behind a classic hierarchical structure, but sometimes this leads to ambiguity and uncertainty? Based on the principles of *Sociocracy* and *Holacracy* I work with you on <mark>clear mandates and mission</mark>, a good flow of information and clarity about what is decided where. We look for a balance that includes people in decisions without spending too much time in meetings.
 
 Starting from the <mark>concrete challenges</mark> and evolving context you experience today I carefully guide you towards a lively, sustainable change.
 

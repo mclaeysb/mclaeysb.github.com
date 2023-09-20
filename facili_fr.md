@@ -42,7 +42,7 @@ Ma boîte à outils contient des méthodologies pour <mark>délibérer et prendr
 
 ## Je vous guide vers une organisation autogérée
 
-Votre équipe a abandonné une structure hiérarchique classique, mais cela mène parfois à de l'ambiguïté et de l'incertitude ? Basé sur les principes de la *Sociocratie* et la *Holacratie*, je travaille avec vous sur des <mark>mandats clairs</mark>, un bon flux d'informations et une clarté sur ce qui est décidé où. On part à la recherche d'un équilibre pour inclure des gens dans la prise de décision sans passer tout son temps dans des réunions. 
+Votre équipe a abandonné une structure hiérarchique classique, mais cela mène parfois à de l'ambiguïté et de l'incertitude ? Basé sur les principes de la *Sociocratie* et la *Holacratie*, je travaille avec vous sur <mark>des mandats et une mission clairs</mark>, un bon flux d'informations et une clarté sur ce qui est décidé où. On part à la recherche d'un équilibre pour inclure des gens dans la prise de décision sans passer tout son temps dans des réunions. 
 
 En partant des <mark>défis concrets</mark> et de l'évolution du contexte que vous vivez aujourd'hui, je guide avec soin votre trajet vers un changement vivant et durable.
 
