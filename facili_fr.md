@@ -89,9 +89,9 @@ Le musée bruxellois Art et Marges a organisé une journée réseau avec 100 ani
 
 Teach For Belgium expérimentait depuis un certain temps avec des équipes autogérées et souhaitait repenser la manière d'aligner ces équipes tout au long de l'année de travail. J'ai conçu une retraite d'équipe d'une journée autour de cette question avec des moments pour explorer les possibilités, peser les options, faire un choix et le concrétiser. Ils ont mis en œuvre (et continuent à améliorer) l'approche résultante.
 
-> Trajectoire d'innovation durable
+> Trajectoire de formation en innovation durable
 
-Infrabel, l'organisation qui gère l'infrastructure ferroviaire belge, souhaitait favoriser davantage l'innovation et la coopération entre ses services grâce à une trajectoire d'innovation durable pour les jeunes employés. J'ai intégré une équipe de facilitateurs à travers le collectif Impact Valley, et animé la méthodologie d'innovation des '4D' pour une petite équipe jeune et transversale composée de techniciens, de développeurs et de planificateurs stratégiques. Je les ai guidés des valeurs au brainstorming la proposition de valeur au prototype testable.
+Infrabel, l'organisation qui gère l'infrastructure ferroviaire belge, souhaitait favoriser davantage l'innovation et la coopération entre ses services grâce à une trajectoire d'innovation durable pour les jeunes employés. J'ai intégré une équipe de facilitateurs à travers le collectif Impact Valley, et animé la méthodologie d'innovation des '4D' pour une petite équipe jeune et transversale composée de techniciens, de développeurs et de planificateurs stratégiques. Je les ai guidés au long de six mois des valeurs au brainstorming la proposition de valeur au prototype testable.
 
 <div class="image-box">
     <img src="img/freelance_1.jpg"/>

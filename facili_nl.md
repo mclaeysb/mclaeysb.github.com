@@ -89,9 +89,9 @@ Het Brusselse museum Art et Marges organiseerde een netwerkdag met 100 animatore
 
 Teach For Belgium experimenteerde al een tijdje met zelfsturende teams en wilde opnieuw nadenken over hoe deze teams het hele werkjaar voldoende gealligneerd kunnen werken. Rondom deze vraag ontwierp ik een eendaagse teamretraite met momenten om mogelijkheden te verkennen, opties af te wegen, een keuze te maken en ze concreet te maken.
 
-> Duurzaam innovatietraject
+> Duurzame innovatie vormings traject
 
-Infrabel, beheerder van de Belgische spoorinfrastructuur, wilde via een duurzaam innovatietraject voor jonge medewerkers meer innovatie en samenwerking tussen zijn diensten stimuleren. Ik sloot me aan bij een team van facilitators via het collectief Impact Valley, en animeerde de '4D'-innovatiemethodologie voor een klein, jong, crossfunctioneel team bestaande uit technici, IT'ers en strategische planners. Ik begeleidde ze van waarden naar brainstorm over value proposition naar testbaar prototype.
+Infrabel, beheerder van de Belgische spoorinfrastructuur, wilde via een duurzaam innovatietraject voor jonge medewerkers meer innovatie en samenwerking tussen zijn diensten stimuleren. Ik sloot me aan bij een team van facilitators via het collectief Impact Valley, en animeerde de '4D'-innovatiemethodologie voor een klein, jong, crossfunctioneel team bestaande uit technici, IT'ers en strategische planners. Ik begeleidde ze zes maanden lang van waarden naar brainstorm over value proposition naar testbaar prototype.
 
 <div class="image-box">
     <img src="img/freelance_1.jpg"/>

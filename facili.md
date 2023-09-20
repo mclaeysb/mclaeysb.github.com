@@ -89,9 +89,9 @@ Brussels museum Art et Marges organised a network day with 100 animators of arti
 
 Teach For Belgium had been experimenting with self-managing teams for a while, and wanted to rethink how to align those teams through-out the work-year. I designed a one-day team retreat around this question with times to explore possibilities, weigh options, make a choice and make it concrete.
 
-> Sustainable innovation trajectory
+> Sustainable innovation training trajectory
 
-Infrabel, who manages the Belgian rail infrastructure, wanted to foster more innovation and cooperation across its departments through a sustainable innovation trajectory for young employees. I joined a team of facilitators through the collective Impact Valley, and animated the '4D' innovation methodology for a small, young, cross-functional team composed of technicians, ITers and strategic planners. I guided them from values to brainstorm over value proposition to testable prototype.
+Infrabel, who manages the Belgian rail infrastructure, wanted to foster more innovation and cooperation across its departments through a sustainable innovation trajectory for young employees. I joined a team of facilitators through the collective Impact Valley, and animated the '4D' innovation methodology for a small, young, cross-functional team composed of technicians, ITers and strategic planners. For six months, I guided them from values to brainstorm over value proposition to testable prototype.
 
 <div class="image-box">
     <img src="img/freelance_1.jpg"/>
