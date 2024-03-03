@@ -26,7 +26,9 @@ Earlier I was a volunteer at the youthwork organisations [Albezon](https://www.a
 
 In 2012 I graduated as an engineer in Applied Physics. As a PhD student at the UGent department of Geography I studied deformations in historical maps and predictive models of pedestrian crowds. I was a GIS-officer and data-scientist at the NGO [IPIS](https://ipisresearch.be) making maps and helping researchers understand their data. At the workers cooperative [Coop IT Easy](https://coopiteasy.be) I made software for organisations in the social economy, as part of an awesome self-facilitating team.
 
-I'm a human being, too. Proud that I can contribute with some things, also struggling with many others. Just trying my best every day, to be kind, be helpful. And while this website is about me (and what I do for work), it's really about us, about nurturing the commons, about affirming the alternatives that already exist, about recognising who we are -- *that* we are, here and alive in this 'existence' thing.
+I'm inspired by writers and creators pusing for more open and human technology. I'm not as present online myself, but offline you might find me spreading the word about that cool user-funded markdown-based note-taking application, referencing a blog that shares some great bike-repair tutorials, or sharing about my clumsy and hacky life with a candy-bar phone.
+
+I'm a human being, too. Proud that I can contribute with some things, also struggling with some others. Trying to be kind and helpful, and to give a place to the many other voices in me too. A person with quite some enthousiasm and belief in our ability to choose and learn and overcome, and moments where these seem further away. And while this website is about me (written for professional reasons - that was a whole exercise!), it's really about 'us', about how we are many and are one, about the power of connection, about recognising who we are -- *that* we are, here and alive in this 'existence' thing.
 
 <br>
 

@@ -106,7 +106,7 @@ I graduated as an <mark>engineer in Applied Physics</mark> and worked as a PhD s
 
 My practical experience is complemented by training in facilitation techniques and posture through a.o. Université du Nous (*Atelier du Nous*) and Collectiv-a (*Posture de Facilitation*).
 
-I'm a human being, too. Proud that I can contribute with some things, also struggling with many others. Just trying my best every day, to be kind, be helpful. And while this website is about me (and what I do for work), it's really about us, about nurturing the commons, about affirming the alternatives that already exist, about recognising who we are -- *that* we are, here and alive in this 'existence' thing.
+I'm a human being, too. Proud that I can contribute with some things, also struggling with some others. Trying to be kind and helpful, and to give a place to the many other voices in me too. A person with quite some enthousiasm and belief in our ability to choose and learn and overcome, and moments where these seem further away. And while this website is about me (written for professional reasons - that was a whole exercise!), it's really about 'us', about how we are many and are one, about the power of connection, about recognising who we are -- *that* we are, here and alive in this 'existence' thing.
 
 Besides the fact that I like to stand in front of groups I also make printed and interactive maps as a freelance <a href="/carto" class="internal">cartographer</a>, including data management and programming.
 

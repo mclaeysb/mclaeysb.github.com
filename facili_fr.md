@@ -106,7 +106,7 @@ J'ai obtenu mon diplôme d'<mark>ingénieur en physique appliquée</mark> et j'a
 
 Mon expérience pratique est complétée par des formations de techniques et de postures de facilitation à travers e.a. Université du Nous (*Atelier du Nous*) et Collectiv-a (*Posture de Facilitation*).
 
-Je suis aussi un être humain. Fier de pouvoir contribuer à certaines choses, mais aussi en travail avec beaucoup d'autres. Chaque jour essayant d'être utile, de porter de la gentillesse. Et bien que ce site parle de moi (et de ce que je fais comme travail), la clé c'est nous, c'est nourrir les communs, c'est affirmer les alternatives qui existent déjà, c'est reconnaître qui nous sommes -- *que* nous sommes, ici et vivants dans cette 'existence'.
+Je suis aussi un être humain. Fier de pouvoir contribuer à certaines choses, mais aussi en travail avec d'autres. Essayant de me rendre utile, de porter de la gentillesse, tout en donnant une place aux nombreuses autres voix en moi aussi. Une personne avec pas mal d'enthousiasme et de croyance en notre capacité à choisir, à apprendre et à surmonter, et des moment où ceux-ci semblent plus lointains. Et bien que ce site parle de moi (et est écrit avec un but professionel aussi - c'était tout un exercice!), la clé c'est 'nous', c'est la façon dont nous sommes différents et un, c'est le pouvoir de la connexion, c'est reconnaître qui nous sommes -- *que* nous sommes, ici et vivants dans cette 'existence'.
 
 Outre le fait que j'aime me tenir devant des groupes, en tant que <a href="/carto" class="internal">cartographe</a> indépendant je réalise également des cartes imprimées et interactives, y compris la gestion des données et la programmation.
 

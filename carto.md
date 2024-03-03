@@ -54,13 +54,13 @@ The engineer in me also looks forward to your <mark>remote sensing</mark> and hy
 
 I try to make maps for projects that matter. My work started off at university, and I love to support researchers big and small with the spatial representation of their work.
 
-I have a particular interest in <mark>historical maps</mark>, and did a lot of work around their <a href="/projects/academia_ferraris" class="internal">deformations</a>, <a href="/projects/allmaps_thinplatespline" class="internal">georeferencing</a> and <a href="/projects/ferrargis" class="internal">styling</a>.
+I have a particular interest in <mark>historical maps</mark>, and currently I'm spending most of my time on a super cool project called <a href="/projects/allmaps_thinplatespline" class="internal">Allmaps</a>, enabling anyone to include historical maps, served using the IIIF standard, in webmaps and other places using sharable 'georeference annotation' files. I previously did some work around <a href="/projects/academia_ferraris" class="internal">deformations</a> and <a href="/projects/ferrargis" class="internal">styling</a> in historical maps.
 
 I've come to know that maps are not just a tool for understanding and planning, but have also been used for (abuse of) power and control. I try to be mindful of this history, learn more about it and question how we can go forward together.
 
-I'm on team *Open Knowledge*; contributing to OpenStreetMap, using <mark>Open Source tools</mark> and sharing my own code, learnings and creations as much as possible. Let's create *knowledge for the many, not the few*.
+I'm on team *Open Knowledge*; contributing to OpenStreetMap, using <mark>Open Source tools</mark>, writing documentation and sharing my own [code](https://github.com/mclaeysb). I'm inspired by writers and creators pushing for more open and human technology, in the field of GIS and beyond.
 
-For my projects I've used tools like QGIS/GDAL -- Mapbox GL JS -- Leaflet -- WebGL -- JavaScript/TypeScript/Node -- SQL/Postgres -- R/dplyr -- Python/Pandas/Jupyter -- CLI -- Git -- MatLab.
+For my projects I've used tools like QGIS/GDAL -- Mapbox GL JS -- MapLibre GL JS -- OpenLayers -- Leaflet -- WebGL -- JavaScript/TypeScript/Node -- SQL/Postgres/PostGIS -- R/dplyr -- Python/Pandas/Jupyter -- CLI -- Git -- MatLab/Octave.
 
 <h1 class="with-margin-top">Some examples</h1>
 

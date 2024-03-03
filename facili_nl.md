@@ -106,7 +106,7 @@ Ik studeerde af als <mark>ingenieur in de Toegepaste Natuurkunde</mark> en werkt
 
 Mijn praktijkervaring wordt aangevuld door trainingen in facilitatie-technieken en -houding via o.a. Université du Nous (*Atelier du Nous*) en Collectiv-a (*Posture de Facilitation*).
 
-Ik ben ook een mens. Trots dat ik met sommige dingen een bijdrage kan leveren, ook strompelend met vele andere. Elke dag een poging behulpzaam te zijn, vriendelijkheid uit te dragen. En hoewel deze website over mij gaat (en wat ik voor werk doe), gaat het echt over ons, over het voeden van wat we gemeen hebben, over het bevestigen van de alternatieven die al bestaan, over het herkennen van wie we zijn -- *dat* we zijn, hier en levend in dit 'bestaan' ding dat gaande is.
+Ik ben ook gewoon een mens. Trots dat ik met sommige dingen een bijdrage kan leveren, en strompelend met enkele andere. Pogend behulpzaam te zijn, vriendelijkheid uit te dragen, en ook een plek te geven aan de vele andere stemmen in mij. Een persoon met heel wat enthousiasme en geloof in ons vermogen om te kiezen in het leven, bij te leren, een stap te zetten, en momenten waarop deze verder weg lijken. En hoewel deze website over mij gaat (en geschreven is met een professioneel doel - dat was een hele oefening!), gaat het echt over 'ons', over hoe we verschillend zijn en toch één, over de kracht van verbinding, over het herkennen van wie we zijn -- *dat* we zijn, hier en levend in dit 'bestaan' ding dat gaande is.
 
 Naast het feit dat ik graag voor groepen sta, maak ik als freelance <a href="/carto" class="internal">cartograaf</a> ook geprinte en interactieve kaarten, incl. data-beheer en programmeerwerk.
 
