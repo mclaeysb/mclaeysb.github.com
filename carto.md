@@ -52,9 +52,9 @@ The engineer in me also looks forward to your <mark>remote sensing</mark> and hy
 
 <h1 class="with-margin-top">My work</h1>
 
-I try to make maps for projects that matter. My work started off at university, and I love to support researchers big and small with the spatial representation of their work.
+I try to make maps for projects that matter. My work started off at university, and I love to support researchers big and small with geographic questions in their work, or with representing their findings on a map.
 
-I have a particular interest in <mark>historical maps</mark>, and currently I'm spending most of my time on a super cool project called <a href="/projects/allmaps_thinplatespline" class="internal">Allmaps</a>, enabling anyone to include historical maps, served using the IIIF standard, in webmaps and other places using sharable 'georeference annotation' files. I previously did some work around <a href="/projects/academia_ferraris" class="internal">deformations</a> and <a href="/projects/ferrargis" class="internal">styling</a> in historical maps.
+I have a particular interest in <mark>historical maps</mark>, and currently I'm spending most of my time on the **[Allmaps](https://allmaps.org/)** project - a open source tool (and spec) that make it easy to work with digitised (historical) maps by georeferencing them, viewing them and enabling them to be easily added to webmaps or QGIS. My contributions started out by implementing <a href="/projects/allmaps_thinplatespline" class="internal">Thin Plate Spline transformations</a> and I will hopefully be able to continue to work on some other parts of the stack, especially the 'Maths that make this all work'. I previously did some other work with historical maps, namely around <a href="/projects/academia_ferraris" class="internal">deformations</a> and <a href="/projects/ferrargis" class="internal">styling</a> in historical maps.
 
 I've come to know that maps are not just a tool for understanding and planning, but have also been used for (abuse of) power and control. I try to be mindful of this history, learn more about it and question how we can go forward together.
 
