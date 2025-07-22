@@ -121,5 +121,5 @@ Manuel Claeys Bouuaert
 <a href="mailto:manuel.claeys.b@gmail.com" class="email">manuel.claeys.b@gmail.com</a><br>
 <a href="tel:+32485748811" class="phone">0485 74 88 11</a>
 
-`VAT: BE0747868317` --- `IBAN: BE31001904377455`
+`VAT: BE0747868317` --- `IBAN: BE45894001120089`
 </div>
